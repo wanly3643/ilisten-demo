@@ -1,0 +1,900 @@
+1
+00:00:00,780 --> 00:00:03,780
+NPR
+
+2
+00:00:04,040 --> 00:00:11,880
+[Music]
+
+3
+00:00:11,880 --> 00:00:13,679
+is the indicator from Planet Money I'm
+
+4
+00:00:13,679 --> 00:00:16,139
+Waylon Wong and I'm Darian Woods the
+
+5
+00:00:16,139 --> 00:00:18,420
+debate over how to curb gun violence in
+
+6
+00:00:18,420 --> 00:00:21,000
+the US has arrived at the doorstep of
+
+7
+00:00:21,000 --> 00:00:23,160
+the financial industry and more
+
+8
+00:00:23,160 --> 00:00:25,380
+specifically companies linked to credit
+
+9
+00:00:25,380 --> 00:00:28,080
+cards within all the infrastructure that
+
+10
+00:00:28,080 --> 00:00:29,820
+undergirds the credit card industry
+
+11
+00:00:29,820 --> 00:00:32,340
+there is one little piece of it that has
+
+12
+00:00:32,340 --> 00:00:34,980
+gotten thrust into this conversation and
+
+13
+00:00:34,980 --> 00:00:37,440
+it is called the merchant category code
+
+14
+00:00:37,440 --> 00:00:39,360
+gun control Advocates believe the
+
+15
+00:00:39,360 --> 00:00:41,280
+merchant category code could be an
+
+16
+00:00:41,280 --> 00:00:43,260
+important tool in identifying suspicious
+
+17
+00:00:43,260 --> 00:00:46,260
+gun sales but getting retailers plus
+
+18
+00:00:46,260 --> 00:00:47,700
+other players in the credit card
+
+19
+00:00:47,700 --> 00:00:50,520
+industry to use this tool is another
+
+20
+00:00:50,520 --> 00:00:53,700
+thing today on the show we zoom in in on
+
+21
+00:00:53,700 --> 00:00:55,920
+this humble bit of financial Plumbing to
+
+22
+00:00:55,920 --> 00:00:58,020
+see how it works and why it's getting
+
+23
+00:00:58,020 --> 00:00:59,520
+the spotlight and the gun violence
+
+24
+00:00:59,520 --> 00:01:01,940
+debate
+
+25
+00:01:04,920 --> 00:01:07,320
+support for this podcast comes from NPR
+
+26
+00:01:07,320 --> 00:01:10,140
+sponsor Raymond James a firm focused on
+
+27
+00:01:10,140 --> 00:01:12,299
+transforming lives businesses and
+
+28
+00:01:12,299 --> 00:01:14,040
+communities through tailored wealth
+
+29
+00:01:14,040 --> 00:01:16,560
+management banking and capital markets
+
+30
+00:01:16,560 --> 00:01:20,520
+Solutions learn more at raymondjames.com
+
+31
+00:01:20,520 --> 00:01:23,400
+in 2018 Andrew Ross Sulkin got curious
+
+32
+00:01:23,400 --> 00:01:25,439
+about something he's a economist and
+
+33
+00:01:25,439 --> 00:01:26,939
+editor at large at the New York Times
+
+34
+00:01:26,939 --> 00:01:28,740
+where he covers the financial industry
+
+35
+00:01:28,740 --> 00:01:31,140
+after the school shooting in Parkland
+
+36
+00:01:31,140 --> 00:01:33,540
+Florida in February of that year Andrew
+
+37
+00:01:33,540 --> 00:01:36,240
+started thinking where the gunman in
+
+38
+00:01:36,240 --> 00:01:38,520
+mass shootings getting the money for
+
+39
+00:01:38,520 --> 00:01:41,340
+their guns it started with a hunch that
+
+40
+00:01:41,340 --> 00:01:43,200
+people couldn't afford to buy all of
+
+41
+00:01:43,200 --> 00:01:45,420
+these guns in paraphernalia
+
+42
+00:01:45,420 --> 00:01:48,659
+without the financing element the credit
+
+43
+00:01:48,659 --> 00:01:51,600
+piece from a credit card Andrew started
+
+44
+00:01:51,600 --> 00:01:53,460
+digging and found that a significant
+
+45
+00:01:53,460 --> 00:01:55,860
+number of Shooters did use credit cards
+
+46
+00:01:55,860 --> 00:01:57,840
+the gunman behind the Pulse Nightclub
+
+47
+00:01:57,840 --> 00:02:00,899
+attack in 2016 for example charged over
+
+48
+00:02:00,899 --> 00:02:03,420
+twenty thousand dollars in weapons on
+
+49
+00:02:03,420 --> 00:02:06,000
+multiple credit cards and what stood out
+
+50
+00:02:06,000 --> 00:02:08,160
+to Andrea was that before carrying out
+
+51
+00:02:08,160 --> 00:02:10,380
+the attack the gunman had Googled terms
+
+52
+00:02:10,380 --> 00:02:13,200
+like credit card unusual spending and
+
+53
+00:02:13,200 --> 00:02:16,140
+why Banks stopped your purchases to me
+
+54
+00:02:16,140 --> 00:02:19,140
+that was proof positive
+
+55
+00:02:19,140 --> 00:02:21,780
+that the banks and the credit card
+
+56
+00:02:21,780 --> 00:02:24,300
+system were in fact financing these
+
+57
+00:02:24,300 --> 00:02:25,800
+shootings there was no other way to
+
+58
+00:02:25,800 --> 00:02:27,840
+think about it and the financial system
+
+59
+00:02:27,840 --> 00:02:30,300
+already uses data and sophisticated
+
+60
+00:02:30,300 --> 00:02:32,459
+algorithms to detect illegal activities
+
+61
+00:02:32,459 --> 00:02:35,040
+like fraud and money laundering so
+
+62
+00:02:35,040 --> 00:02:36,900
+Andrew thought what if there was a way
+
+63
+00:02:36,900 --> 00:02:39,239
+to identify suspicious spending activity
+
+64
+00:02:39,239 --> 00:02:41,879
+at gun stores now credit card companies
+
+65
+00:02:41,879 --> 00:02:44,160
+and Banks don't collect product level
+
+66
+00:02:44,160 --> 00:02:46,800
+data on what specific items people are
+
+67
+00:02:46,800 --> 00:02:48,660
+buying with their cards but the one
+
+68
+00:02:48,660 --> 00:02:50,819
+thing that is communicated back to all
+
+69
+00:02:50,819 --> 00:02:52,379
+of those folks
+
+70
+00:02:52,379 --> 00:02:54,959
+is the merchant category code the
+
+71
+00:02:54,959 --> 00:02:57,000
+merchant category code so let's talk
+
+72
+00:02:57,000 --> 00:02:59,160
+about what this is the merchant category
+
+73
+00:02:59,160 --> 00:03:02,340
+code or MCC for short is a four digit
+
+74
+00:03:02,340 --> 00:03:04,680
+number that's used to categorize a
+
+75
+00:03:04,680 --> 00:03:06,660
+business by what they primarily sell
+
+76
+00:03:06,660 --> 00:03:08,400
+that could be cat food or concert
+
+77
+00:03:08,400 --> 00:03:10,620
+tickets or refrigerator repair and the
+
+78
+00:03:10,620 --> 00:03:12,360
+industry uses these Merchant category
+
+79
+00:03:12,360 --> 00:03:14,760
+codes in a few different ways one
+
+80
+00:03:14,760 --> 00:03:16,680
+example is reward programs you know like
+
+81
+00:03:16,680 --> 00:03:18,720
+credit cards that give you double points
+
+82
+00:03:18,720 --> 00:03:21,120
+for your groceries you get those points
+
+83
+00:03:21,120 --> 00:03:22,680
+when you use your card at a business
+
+84
+00:03:22,680 --> 00:03:24,659
+that is categorized as a grocery store
+
+85
+00:03:24,659 --> 00:03:27,000
+another way the industry uses these
+
+86
+00:03:27,000 --> 00:03:29,280
+codes is to gather data on consumer
+
+87
+00:03:29,280 --> 00:03:31,560
+spending David shipper is a strategic
+
+88
+00:03:31,560 --> 00:03:33,599
+advisor at a Financial Services Research
+
+89
+00:03:33,599 --> 00:03:36,000
+firm called it navarica group Merchant
+
+90
+00:03:36,000 --> 00:03:39,360
+category of codes really help to Define
+
+91
+00:03:39,360 --> 00:03:41,760
+volume and see where things are moving
+
+92
+00:03:41,760 --> 00:03:44,040
+in different types of or lines of
+
+93
+00:03:44,040 --> 00:03:45,780
+business like grocery department stores
+
+94
+00:03:45,780 --> 00:03:48,840
+hotels I mean without them it really
+
+95
+00:03:48,840 --> 00:03:51,360
+would be difficult to understand as a
+
+96
+00:03:51,360 --> 00:03:54,180
+card issuer where your consumers are
+
+97
+00:03:54,180 --> 00:03:56,580
+spending money Merchant category codes
+
+98
+00:03:56,580 --> 00:03:59,400
+have been around since 2003 and they're
+
+99
+00:03:59,400 --> 00:04:01,260
+managed by a group in Geneva Switzerland
+
+100
+00:04:01,260 --> 00:04:02,819
+called the okay are you ready for this
+
+101
+00:04:02,819 --> 00:04:05,099
+name Darian I'm ready they're called The
+
+102
+00:04:05,099 --> 00:04:07,140
+International Organization for
+
+103
+00:04:07,140 --> 00:04:09,659
+standardization standardization so like
+
+104
+00:04:09,659 --> 00:04:12,060
+no free expression Allowed no not at all
+
+105
+00:04:12,060 --> 00:04:14,640
+but really the iso is the authority that
+
+106
+00:04:14,640 --> 00:04:16,798
+approves or rejects requests for new
+
+107
+00:04:16,798 --> 00:04:19,798
+codes based on criteria like is the
+
+108
+00:04:19,798 --> 00:04:21,779
+proposed new category distinct enough
+
+109
+00:04:21,779 --> 00:04:23,720
+from the categories that already exist
+
+110
+00:04:23,720 --> 00:04:26,400
+and do the businesses in the category
+
+111
+00:04:26,400 --> 00:04:28,620
+generate at least 10 million dollars in
+
+112
+00:04:28,620 --> 00:04:31,160
+annual sales so this Swiss organization
+
+113
+00:04:31,160 --> 00:04:34,259
+maintains the list of codes and then the
+
+114
+00:04:34,259 --> 00:04:36,360
+codes are assigned to businesses by
+
+115
+00:04:36,360 --> 00:04:38,940
+Banks and here's how that works let's
+
+116
+00:04:38,940 --> 00:04:41,220
+say I'm opening a new Candy Shop in my
+
+117
+00:04:41,220 --> 00:04:43,919
+town and I want to accept credit cards I
+
+118
+00:04:43,919 --> 00:04:45,840
+need to open an account with a bank that
+
+119
+00:04:45,840 --> 00:04:48,180
+can handle those transactions for me the
+
+120
+00:04:48,180 --> 00:04:50,040
+bank will ask me what's your primary
+
+121
+00:04:50,040 --> 00:04:52,380
+line of business and I'll say candy so
+
+122
+00:04:52,380 --> 00:04:54,419
+the Bank assigns me the merchant
+
+123
+00:04:54,419 --> 00:04:57,000
+category code for candy nuts and
+
+124
+00:04:57,000 --> 00:04:59,160
+confectionary stores and if I were to
+
+125
+00:04:59,160 --> 00:05:01,199
+pursue my true dream which is to open a
+
+126
+00:05:01,199 --> 00:05:03,840
+wig store there is a specific code just
+
+127
+00:05:03,840 --> 00:05:05,820
+for Wig and dupe stores believe it or
+
+128
+00:05:05,820 --> 00:05:08,220
+not there is also one for snowmobile
+
+129
+00:05:08,220 --> 00:05:10,580
+dealers or this is one of my favorites
+
+130
+00:05:10,580 --> 00:05:13,440
+detective agencies and security services
+
+131
+00:05:13,440 --> 00:05:16,979
+including armored cars and guard dogs so
+
+132
+00:05:16,979 --> 00:05:19,199
+these category codes can get pretty
+
+133
+00:05:19,199 --> 00:05:22,620
+specific even so until September there
+
+134
+00:05:22,620 --> 00:05:24,660
+wasn't a code specifically for stores
+
+135
+00:05:24,660 --> 00:05:27,180
+that sell guns and ammunition those
+
+136
+00:05:27,180 --> 00:05:29,340
+businesses are usually designated as
+
+137
+00:05:29,340 --> 00:05:31,620
+Sporting Goods or miscellaneous and
+
+138
+00:05:31,620 --> 00:05:33,780
+Andrew Ross Sorkin thought what if there
+
+139
+00:05:33,780 --> 00:05:36,660
+was a new code just for gun stores so
+
+140
+00:05:36,660 --> 00:05:38,460
+the financial industry could have a
+
+141
+00:05:38,460 --> 00:05:40,139
+chance at potentially spotting
+
+142
+00:05:40,139 --> 00:05:43,500
+suspicious activity so in 2018 he
+
+143
+00:05:43,500 --> 00:05:45,479
+started writing and giving talks about
+
+144
+00:05:45,479 --> 00:05:48,720
+this idea and One bank took notice
+
+145
+00:05:48,720 --> 00:05:51,180
+Amalgamated Bank it submitted an
+
+146
+00:05:51,180 --> 00:05:53,400
+application to the iso and Switzerland
+
+147
+00:05:53,400 --> 00:05:56,100
+for a new Merchant category code and
+
+148
+00:05:56,100 --> 00:05:58,800
+after an initial rejection the iso
+
+149
+00:05:58,800 --> 00:06:01,919
+approved the request and David said that
+
+150
+00:06:01,919 --> 00:06:04,380
+caused quite a stir I would say this is
+
+151
+00:06:04,380 --> 00:06:06,419
+probably the first time MCC codes have
+
+152
+00:06:06,419 --> 00:06:09,900
+ever made news wow big day for MCC codes
+
+153
+00:06:09,900 --> 00:06:13,440
+I know yeah the big win the new code was
+
+154
+00:06:13,440 --> 00:06:14,940
+considered a win by gun control
+
+155
+00:06:14,940 --> 00:06:17,759
+Advocates but a Firearms trade
+
+156
+00:06:17,759 --> 00:06:19,919
+Association and almost two dozen
+
+157
+00:06:19,919 --> 00:06:22,380
+Republican Attorneys General are bulking
+
+158
+00:06:22,380 --> 00:06:25,560
+at the idea saw some lawmakers at a
+
+159
+00:06:25,560 --> 00:06:27,000
+recent Congressional hearing with bank
+
+160
+00:06:27,000 --> 00:06:29,580
+CEOs representative Roger Williams of
+
+161
+00:06:29,580 --> 00:06:32,580
+Texas said the new code is an invasion
+
+162
+00:06:32,580 --> 00:06:34,860
+of privacy anyone who is against the
+
+163
+00:06:34,860 --> 00:06:37,199
+rights of gun owners will want your
+
+164
+00:06:37,199 --> 00:06:39,060
+institutions to flag every single
+
+165
+00:06:39,060 --> 00:06:42,600
+transaction with a gun MCC to law
+
+166
+00:06:42,600 --> 00:06:44,699
+enforcement David says that it's not
+
+167
+00:06:44,699 --> 00:06:46,440
+clear how effect of the new Merchant
+
+168
+00:06:46,440 --> 00:06:48,840
+category code will actually be as a way
+
+169
+00:06:48,840 --> 00:06:51,360
+to spot suspicious purchases for
+
+170
+00:06:51,360 --> 00:06:52,979
+starters the code is like a blunt
+
+171
+00:06:52,979 --> 00:06:55,560
+instrument it only identifies the type
+
+172
+00:06:55,560 --> 00:06:57,300
+of business where a credit card is used
+
+173
+00:06:57,300 --> 00:06:59,340
+it doesn't give any information about
+
+174
+00:06:59,340 --> 00:07:02,400
+what was purchased so if you think
+
+175
+00:07:02,400 --> 00:07:05,759
+about a you know gun and ammunition
+
+176
+00:07:05,759 --> 00:07:08,160
+store if you go there and you purchase a
+
+177
+00:07:08,160 --> 00:07:09,440
+hunting bow
+
+178
+00:07:09,440 --> 00:07:12,240
+the MCC code is not going to know that
+
+179
+00:07:12,240 --> 00:07:14,819
+you purchased that versus a shotgun it's
+
+180
+00:07:14,819 --> 00:07:17,039
+not going to know that you purchased
+
+181
+00:07:17,039 --> 00:07:19,620
+ammunition versus maybe you purchased a
+
+182
+00:07:19,620 --> 00:07:21,300
+lot of candy and then there's the
+
+183
+00:07:21,300 --> 00:07:23,099
+question of whether the new Merchant
+
+184
+00:07:23,099 --> 00:07:25,800
+category code will get used at all so
+
+185
+00:07:25,800 --> 00:07:27,840
+remember we mentioned earlier that Banks
+
+186
+00:07:27,840 --> 00:07:30,599
+assign the codes to the businesses and
+
+187
+00:07:30,599 --> 00:07:32,580
+gun stores are usually designated as
+
+188
+00:07:32,580 --> 00:07:35,039
+Sporting Goods or miscellaneous so for
+
+189
+00:07:35,039 --> 00:07:36,840
+this new code to actually get used
+
+190
+00:07:36,840 --> 00:07:38,759
+stores and their Banks would have to
+
+191
+00:07:38,759 --> 00:07:41,039
+work together to reclassify the store
+
+192
+00:07:41,039 --> 00:07:43,740
+David says he doesn't really see that
+
+193
+00:07:43,740 --> 00:07:46,440
+happening and he's also skeptical that
+
+194
+00:07:46,440 --> 00:07:48,479
+newly opened gun stores will want this
+
+195
+00:07:48,479 --> 00:07:50,940
+code assigned to them and meanwhile the
+
+196
+00:07:50,940 --> 00:07:52,740
+big payment card networks visa and
+
+197
+00:07:52,740 --> 00:07:54,660
+MasterCard they responded to the
+
+198
+00:07:54,660 --> 00:07:56,880
+controversy by saying they respect the
+
+199
+00:07:56,880 --> 00:07:58,919
+privacy of their cardholders the
+
+200
+00:07:58,919 --> 00:08:00,539
+companies said they do not track
+
+201
+00:08:00,539 --> 00:08:03,000
+personal purchasing habits nor do they
+
+202
+00:08:03,000 --> 00:08:05,099
+block legal transactions based on
+
+203
+00:08:05,099 --> 00:08:06,960
+Merchant category codes
+
+204
+00:08:06,960 --> 00:08:09,479
+Visa said it doesn't think these codes
+
+205
+00:08:09,479 --> 00:08:12,120
+can or should be used to track purchases
+
+206
+00:08:12,120 --> 00:08:15,120
+like gun sales the company even said we
+
+207
+00:08:15,120 --> 00:08:17,039
+do not believe private companies should
+
+208
+00:08:17,039 --> 00:08:20,160
+serve as moral Arbiters so at the moment
+
+209
+00:08:20,160 --> 00:08:22,199
+the new Merchant category code exists
+
+210
+00:08:22,199 --> 00:08:24,180
+but it needs financial institutions to
+
+211
+00:08:24,180 --> 00:08:26,879
+embrace it and both David and Andrew see
+
+212
+00:08:26,879 --> 00:08:28,979
+ways that people can avoid getting their
+
+213
+00:08:28,979 --> 00:08:30,419
+transactions flagged like they could
+
+214
+00:08:30,419 --> 00:08:32,940
+just switch to cash but Andrew says he
+
+215
+00:08:32,940 --> 00:08:34,559
+hopes the new code will inspire
+
+216
+00:08:34,559 --> 00:08:36,899
+continued debate and reflection in the
+
+217
+00:08:36,899 --> 00:08:39,120
+financial industry about how those
+
+218
+00:08:39,120 --> 00:08:43,559
+businesses can help reduce gun violence
+
+219
+00:08:43,559 --> 00:08:45,060
+this episode was produced by Corey
+
+220
+00:08:45,060 --> 00:08:46,560
+Bridges with engineering from Maggie
+
+221
+00:08:46,560 --> 00:08:48,300
+luthar was fact-checked by Catherine
+
+222
+00:08:48,300 --> 00:08:50,640
+Yang and Dylan Sloan Viet Lisa senior
+
+223
+00:08:50,640 --> 00:08:52,380
+producer taking Cannon edits the show
+
+224
+00:08:52,380 --> 00:08:57,019
+and the indicator is a production of NPR
+
+225
+00:08:58,440 --> 00:09:01,220
+foreign
+
