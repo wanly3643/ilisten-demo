@@ -1,10 +1,14 @@
-[
-    {
-        "id": "20221017",
-        "srtUrl": "https://wanly3643.github.io/ilisten-demo/json/set/indicator/20221017.srt",
-        "audioUrl": "https://ondemand.npr.org/anon.npr-mp3/npr/indicator/2022/10/20221017_indicator_fbada1df-5f90-4e1c-bc57-15d3a4504636.mp3?orgId=1&topicId=1017&d=540&p=510325&story=1129532241&t=podcast&e=1129532241&dl=1&sc=siteplayer&size=8646366",
-        "avatar": "",
-        "datetime": "2022-10-17",
-        "title": "Can credit card codes help address gun violence?"
-    }
-]
+{
+    "id": "indicator",
+    "title": "The Indicator from Planet Money",
+    "url": "https://wanly3643.github.io/ilisten-demo/json/set/indicator/set.json",
+    "avatar": "https://wanly3643.github.io/ilisten-demo/json/set/indicator/avatar.webp",
+    "audios": [
+        {
+            "id": "20221017",
+            "avatar": "",
+            "datetime": "2022-10-17",
+            "title": "Can credit card codes help address gun violence?"
+        }
+    ]
+}
