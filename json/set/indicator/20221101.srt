@@ -1,0 +1,960 @@
+1
+00:00:00,659 --> 00:00:03,659
+NPR
+
+2
+00:00:04,220 --> 00:00:11,529
+[Music]
+
+3
+00:00:12,000 --> 00:00:13,980
+the brightest flashlight app was
+
+4
+00:00:13,980 --> 00:00:16,800
+developed for something very simple this
+
+5
+00:00:16,800 --> 00:00:18,240
+was during the time when a lot of
+
+6
+00:00:18,240 --> 00:00:19,859
+Android phones didn't have built-in
+
+7
+00:00:19,859 --> 00:00:22,380
+flashlights like the iPhone so this app
+
+8
+00:00:22,380 --> 00:00:24,359
+would turn on all the available lights
+
+9
+00:00:24,359 --> 00:00:26,699
+essentially making the phone into a
+
+10
+00:00:26,699 --> 00:00:28,680
+flashlight but the brightest flashlight
+
+11
+00:00:28,680 --> 00:00:31,439
+was also doing something else it was
+
+12
+00:00:31,439 --> 00:00:33,840
+recording users locations and sending
+
+13
+00:00:33,840 --> 00:00:36,540
+that information to advertisers and this
+
+14
+00:00:36,540 --> 00:00:38,640
+landed the company in hot water with the
+
+15
+00:00:38,640 --> 00:00:40,680
+Federal Trade Commission that was almost
+
+16
+00:00:40,680 --> 00:00:43,500
+a decade ago since then the market for
+
+17
+00:00:43,500 --> 00:00:45,840
+location data has continued to flourish
+
+18
+00:00:45,840 --> 00:00:48,899
+it is a multi-billion dollar industry
+
+19
+00:00:48,899 --> 00:00:51,000
+where information on people's precise
+
+20
+00:00:51,000 --> 00:00:53,340
+whereabouts is still being collected for
+
+21
+00:00:53,340 --> 00:00:55,620
+mobile apps and sold to companies or
+
+22
+00:00:55,620 --> 00:00:58,739
+government agencies often without users
+
+23
+00:00:58,739 --> 00:01:01,260
+knowledge or direct consent
+
+24
+00:01:01,260 --> 00:01:03,120
+this is the indicator from Planet Money
+
+25
+00:01:03,120 --> 00:01:05,280
+I'm Waylon Wong and I'm Darian woods
+
+26
+00:01:05,280 --> 00:01:06,780
+today on the show we're going to look at
+
+27
+00:01:06,780 --> 00:01:09,240
+Mobile location data how it's gathered
+
+28
+00:01:09,240 --> 00:01:11,640
+sold and used and we're going to talk to
+
+29
+00:01:11,640 --> 00:01:14,280
+One developer about his experience to
+
+30
+00:01:14,280 --> 00:01:16,320
+try to build a weather app that takes
+
+31
+00:01:16,320 --> 00:01:19,820
+privacy seriously
+
+32
+00:01:24,420 --> 00:01:26,880
+support for this podcast comes from NPR
+
+33
+00:01:26,880 --> 00:01:29,700
+sponsor Raymond James a firm focused on
+
+34
+00:01:29,700 --> 00:01:31,920
+transforming lives businesses and
+
+35
+00:01:31,920 --> 00:01:33,659
+communities through tailored wealth
+
+36
+00:01:33,659 --> 00:01:36,180
+management banking and capital markets
+
+37
+00:01:36,180 --> 00:01:39,780
+Solutions learn more at raymondjames.com
+
+38
+00:01:39,780 --> 00:01:42,600
+our phones contain a treasure Trove of
+
+39
+00:01:42,600 --> 00:01:44,579
+information about us what we're watching
+
+40
+00:01:44,579 --> 00:01:47,520
+buying searching for and where we are
+
+41
+00:01:47,520 --> 00:01:50,579
+precise geolocation data is really your
+
+42
+00:01:50,579 --> 00:01:52,439
+longitude and your latitude so exactly
+
+43
+00:01:52,439 --> 00:01:54,840
+where you are like you are in your
+
+44
+00:01:54,840 --> 00:01:57,119
+living room in your apartment Lena Gomez
+
+45
+00:01:57,119 --> 00:01:59,399
+a privacy lawyer a couple of years ago
+
+46
+00:01:59,399 --> 00:02:01,560
+she helped launch a watchdog group that
+
+47
+00:02:01,560 --> 00:02:04,020
+investigated mobile apps this was also
+
+48
+00:02:04,020 --> 00:02:05,640
+when more investigative journalism was
+
+49
+00:02:05,640 --> 00:02:07,979
+coming out about the industry like in
+
+50
+00:02:07,979 --> 00:02:10,560
+2020 Vice reported that the U.S military
+
+51
+00:02:10,560 --> 00:02:13,020
+was buying location data collected from
+
+52
+00:02:13,020 --> 00:02:16,080
+a variety of apps usually what happens
+
+53
+00:02:16,080 --> 00:02:17,940
+is that apps are collecting information
+
+54
+00:02:17,940 --> 00:02:20,940
+about you the apps then turn around and
+
+55
+00:02:20,940 --> 00:02:22,680
+sell that information to data Brokers
+
+56
+00:02:22,680 --> 00:02:25,140
+third parties who then package that data
+
+57
+00:02:25,140 --> 00:02:27,599
+repurpose it and then sell it to
+
+58
+00:02:27,599 --> 00:02:30,540
+anyone that wants to buy the data later
+
+59
+00:02:30,540 --> 00:02:33,060
+says location data can be helpful like
+
+60
+00:02:33,060 --> 00:02:36,000
+say an epidemiologist wants to track the
+
+61
+00:02:36,000 --> 00:02:37,739
+spread of infectious diseases in a
+
+62
+00:02:37,739 --> 00:02:39,720
+population or a real estate company
+
+63
+00:02:39,720 --> 00:02:41,400
+might want to analyze foot traffic
+
+64
+00:02:41,400 --> 00:02:43,680
+patterns when deciding where to open a
+
+65
+00:02:43,680 --> 00:02:45,599
+store and then there are apps that
+
+66
+00:02:45,599 --> 00:02:47,160
+simply wouldn't work without knowing
+
+67
+00:02:47,160 --> 00:02:48,780
+their users locations think of
+
+68
+00:02:48,780 --> 00:02:50,879
+navigation and mapping apps or ride
+
+69
+00:02:50,879 --> 00:02:53,099
+sharing apps like Lyft and Uber so it's
+
+70
+00:02:53,099 --> 00:02:56,640
+not all nefarious and bad but
+
+71
+00:02:56,640 --> 00:02:57,959
+unfortunately the way that it's been
+
+72
+00:02:57,959 --> 00:03:00,239
+used today has exploited individuals
+
+73
+00:03:00,239 --> 00:03:02,400
+because this information is really
+
+74
+00:03:02,400 --> 00:03:04,620
+sensitive one high profile example from
+
+75
+00:03:04,620 --> 00:03:07,260
+last year involved a Catholic priest he
+
+76
+00:03:07,260 --> 00:03:09,480
+resigned after a new site claimed to
+
+77
+00:03:09,480 --> 00:03:11,760
+have linked his phone with data showing
+
+78
+00:03:11,760 --> 00:03:13,680
+that he had visited gay bars and used
+
+79
+00:03:13,680 --> 00:03:15,900
+the location-based dating app grinder
+
+80
+00:03:15,900 --> 00:03:18,239
+and location data came under renewed
+
+81
+00:03:18,239 --> 00:03:20,580
+scrutiny after Roe v Wade was overturned
+
+82
+00:03:20,580 --> 00:03:22,680
+Congress is investigating privacy
+
+83
+00:03:22,680 --> 00:03:24,959
+concerns related to period tracking apps
+
+84
+00:03:24,959 --> 00:03:26,580
+and how they collect data including
+
+85
+00:03:26,580 --> 00:03:27,540
+location
+
+86
+00:03:27,540 --> 00:03:30,780
+and in August the FTC sued a data broker
+
+87
+00:03:30,780 --> 00:03:33,360
+named kochava it said the company's data
+
+88
+00:03:33,360 --> 00:03:35,040
+could be used to track people visiting
+
+89
+00:03:35,040 --> 00:03:36,959
+sensitive places like reproductive
+
+90
+00:03:36,959 --> 00:03:38,819
+health clinics and domestic violence
+
+91
+00:03:38,819 --> 00:03:41,280
+shelters so how does location data get
+
+92
+00:03:41,280 --> 00:03:43,799
+from an app to a data broker to
+
+93
+00:03:43,799 --> 00:03:45,299
+companies that are paying for this
+
+94
+00:03:45,299 --> 00:03:48,000
+information Lena says that often the app
+
+95
+00:03:48,000 --> 00:03:50,220
+developers have no idea that this data
+
+96
+00:03:50,220 --> 00:03:51,599
+is being collected in the first place
+
+97
+00:03:51,599 --> 00:03:53,459
+and that's because of something called
+
+98
+00:03:53,459 --> 00:03:56,640
+software development kits or sdks
+
+99
+00:03:56,640 --> 00:03:59,640
+basically they're pieces of code that
+
+100
+00:03:59,640 --> 00:04:02,280
+app developers use when creating an App
+
+101
+00:04:02,280 --> 00:04:04,140
+instead of writing the code from scratch
+
+102
+00:04:04,140 --> 00:04:06,900
+so think about making spaghetti you
+
+103
+00:04:06,900 --> 00:04:08,760
+could spend hours simmering a complex
+
+104
+00:04:08,760 --> 00:04:11,220
+bolognese sauce on the stove or you
+
+105
+00:04:11,220 --> 00:04:13,260
+could buy a jar of pre-made sauce and
+
+106
+00:04:13,260 --> 00:04:15,000
+get dinner on the table in 15 minutes
+
+107
+00:04:15,000 --> 00:04:18,418
+yeah so sdks are these pre-made Jarred
+
+108
+00:04:18,418 --> 00:04:21,298
+pasta sources of the mobile app industry
+
+109
+00:04:21,298 --> 00:04:23,400
+they contain pre-made software for
+
+110
+00:04:23,400 --> 00:04:24,960
+functions like taking credit card
+
+111
+00:04:24,960 --> 00:04:27,360
+payments or sending instant messages so
+
+112
+00:04:27,360 --> 00:04:30,479
+sdks can be very useful but unbeknownst
+
+113
+00:04:30,479 --> 00:04:32,940
+to app developers some SDK creators
+
+114
+00:04:32,940 --> 00:04:34,979
+insert location tracking capabilities
+
+115
+00:04:34,979 --> 00:04:37,080
+into their software and sell that data
+
+116
+00:04:37,080 --> 00:04:39,360
+to Brokers what happens a lot of time is
+
+117
+00:04:39,360 --> 00:04:41,580
+that the SDK has what we call invisible
+
+118
+00:04:41,580 --> 00:04:45,120
+code and the code can then extract your
+
+119
+00:04:45,120 --> 00:04:46,500
+location information and the app
+
+120
+00:04:46,500 --> 00:04:48,479
+developers actually sometimes don't even
+
+121
+00:04:48,479 --> 00:04:50,880
+know that they're putting this into the
+
+122
+00:04:50,880 --> 00:04:53,400
+app some developers choose to avoid sdks
+
+123
+00:04:53,400 --> 00:04:54,979
+altogether for this very reason
+
+124
+00:04:54,979 --> 00:04:57,720
+developers like Brian Mueller I'm Brian
+
+125
+00:04:57,720 --> 00:05:00,360
+Mueller and I'm the founder of carrot
+
+126
+00:05:00,360 --> 00:05:02,699
+weather this uh snarky little weather
+
+127
+00:05:02,699 --> 00:05:04,620
+app that has this personality built into
+
+128
+00:05:04,620 --> 00:05:06,300
+it I'm sick of these vanilla weather
+
+129
+00:05:06,300 --> 00:05:08,940
+apps yeah well if you want a weather app
+
+130
+00:05:08,940 --> 00:05:10,620
+kind of spicing up your life carrot
+
+131
+00:05:10,620 --> 00:05:12,600
+weather might be your thing because okay
+
+132
+00:05:12,600 --> 00:05:15,000
+every time you open this app you are
+
+133
+00:05:15,000 --> 00:05:17,759
+greeted with a rude message like if it's
+
+134
+00:05:17,759 --> 00:05:20,820
+sunny and warm carrot might say I hope
+
+135
+00:05:20,820 --> 00:05:23,820
+you get a horrible sunburn this is quite
+
+136
+00:05:23,820 --> 00:05:25,560
+the app I don't know why people would
+
+137
+00:05:25,560 --> 00:05:27,060
+want this in their life but maybe I
+
+138
+00:05:27,060 --> 00:05:28,500
+don't know self-flagellation is a thing
+
+139
+00:05:28,500 --> 00:05:30,419
+maybe just to feel alive does it feel
+
+140
+00:05:30,419 --> 00:05:32,940
+alive you know I have learned that
+
+141
+00:05:32,940 --> 00:05:35,580
+carrots personality is pretty acerbic
+
+142
+00:05:35,580 --> 00:05:37,380
+and it's sometimes bordering on
+
+143
+00:05:37,380 --> 00:05:40,259
+homicidal but one thing that carrot does
+
+144
+00:05:40,259 --> 00:05:42,300
+not do despite being a weather app is
+
+145
+00:05:42,300 --> 00:05:44,820
+collect and store precise location data
+
+146
+00:05:44,820 --> 00:05:47,039
+a few few years ago when Brian started
+
+147
+00:05:47,039 --> 00:05:49,199
+reading about how invisible code could
+
+148
+00:05:49,199 --> 00:05:51,960
+be lurking inside sdks he decided to
+
+149
+00:05:51,960 --> 00:05:54,180
+remove them from his app he also doesn't
+
+150
+00:05:54,180 --> 00:05:56,100
+sell ads because he didn't want to
+
+151
+00:05:56,100 --> 00:05:58,500
+expose his customers data to third-party
+
+152
+00:05:58,500 --> 00:06:00,960
+advertising companies I remember joking
+
+153
+00:06:00,960 --> 00:06:03,960
+that carrot wants your location data so
+
+154
+00:06:03,960 --> 00:06:05,820
+that she can use it to like send an
+
+155
+00:06:05,820 --> 00:06:08,639
+assassin after you not not give it to
+
+156
+00:06:08,639 --> 00:06:10,860
+someone else to Market stuff to you so
+
+157
+00:06:10,860 --> 00:06:12,660
+one challenge for Brian is that he has
+
+158
+00:06:12,660 --> 00:06:14,580
+to rely on third party weather data
+
+159
+00:06:14,580 --> 00:06:16,259
+providers you know like the companies
+
+160
+00:06:16,259 --> 00:06:18,780
+that actually do the forecasts and he
+
+161
+00:06:18,780 --> 00:06:20,699
+can't control what those companies do
+
+162
+00:06:20,699 --> 00:06:24,120
+with his customers data so he's built a
+
+163
+00:06:24,120 --> 00:06:26,819
+couple of safeguards for example he puts
+
+164
+00:06:26,819 --> 00:06:29,160
+his own servers in between his customers
+
+165
+00:06:29,160 --> 00:06:31,500
+and the weather data providers that way
+
+166
+00:06:31,500 --> 00:06:33,660
+those companies don't see his customers
+
+167
+00:06:33,660 --> 00:06:36,300
+IP addresses they only see requests
+
+168
+00:06:36,300 --> 00:06:38,580
+coming from Brian's servers and another
+
+169
+00:06:38,580 --> 00:06:41,639
+thing that I do is uh my request to the
+
+170
+00:06:41,639 --> 00:06:44,759
+weather data providers don't use the
+
+171
+00:06:44,759 --> 00:06:48,060
+most precise GPS coordinates I round
+
+172
+00:06:48,060 --> 00:06:50,039
+those coordinates up so that they'll
+
+173
+00:06:50,039 --> 00:06:52,979
+never be able to like say that this user
+
+174
+00:06:52,979 --> 00:06:55,800
+is at this specific address Brian says
+
+175
+00:06:55,800 --> 00:06:58,199
+though as a consumer he personally
+
+176
+00:06:58,199 --> 00:07:00,720
+doesn't mind his location being used for
+
+177
+00:07:00,720 --> 00:07:03,180
+targeted ads and this is a pretty common
+
+178
+00:07:03,180 --> 00:07:05,940
+mindset like our online experience can
+
+179
+00:07:05,940 --> 00:07:07,620
+be more tailored to our interests
+
+180
+00:07:07,620 --> 00:07:09,120
+because of the information that we
+
+181
+00:07:09,120 --> 00:07:12,240
+provide to apps and advertisers and ads
+
+182
+00:07:12,240 --> 00:07:13,919
+are what enables so many apps and
+
+183
+00:07:13,919 --> 00:07:15,660
+services to be free but the conversation
+
+184
+00:07:15,660 --> 00:07:17,520
+station around how sensitive personal
+
+185
+00:07:17,520 --> 00:07:19,800
+information gets used is prompting
+
+186
+00:07:19,800 --> 00:07:21,960
+people like Brian to take a hard look at
+
+187
+00:07:21,960 --> 00:07:23,580
+the trade-offs between privacy
+
+188
+00:07:23,580 --> 00:07:26,460
+convenience and in his case making a
+
+189
+00:07:26,460 --> 00:07:28,440
+living as an app developer there's so
+
+190
+00:07:28,440 --> 00:07:30,720
+many cases out there where location data
+
+191
+00:07:30,720 --> 00:07:32,099
+can be used
+
+192
+00:07:32,099 --> 00:07:34,560
+to really hurt people
+
+193
+00:07:34,560 --> 00:07:36,479
+and that's the kind of stuff that I
+
+194
+00:07:36,479 --> 00:07:38,580
+don't want to contribute to both Brian
+
+195
+00:07:38,580 --> 00:07:40,620
+and Lena say that because the US doesn't
+
+196
+00:07:40,620 --> 00:07:42,960
+have a federal Privacy Law like Europe's
+
+197
+00:07:42,960 --> 00:07:46,319
+gdpr law it's largely been left up to
+
+198
+00:07:46,319 --> 00:07:48,180
+individual companies and developers to
+
+199
+00:07:48,180 --> 00:07:50,460
+figure out their own policies Apple for
+
+200
+00:07:50,460 --> 00:07:52,380
+example introduced privacy features last
+
+201
+00:07:52,380 --> 00:07:54,780
+year that let iPhone users opt out of
+
+202
+00:07:54,780 --> 00:07:57,120
+getting tracked by advertisers privacy
+
+203
+00:07:57,120 --> 00:07:59,039
+Advocates applauded the features but
+
+204
+00:07:59,039 --> 00:08:01,440
+those changes also resulted in billions
+
+205
+00:08:01,440 --> 00:08:03,599
+of lost dollars in ad revenue and sales
+
+206
+00:08:03,599 --> 00:08:05,639
+for companies and for individual people
+
+207
+00:08:05,639 --> 00:08:08,520
+like Lena the wild west nature of the
+
+208
+00:08:08,520 --> 00:08:10,800
+mobile app industry means that she has
+
+209
+00:08:10,800 --> 00:08:13,560
+to stay personally Vigilant not only for
+
+210
+00:08:13,560 --> 00:08:16,500
+herself but her parents too who aren't
+
+211
+00:08:16,500 --> 00:08:18,840
+as tech savvy as she is I look at their
+
+212
+00:08:18,840 --> 00:08:20,099
+phone and I'm like do you really need
+
+213
+00:08:20,099 --> 00:08:21,840
+these apps what's like the most random
+
+214
+00:08:21,840 --> 00:08:23,160
+app you found on your parents phone
+
+215
+00:08:23,160 --> 00:08:26,360
+where you're like no you don't need this
+
+216
+00:08:26,360 --> 00:08:30,000
+my mom had this like flower of the day
+
+217
+00:08:30,000 --> 00:08:31,500
+app
+
+218
+00:08:31,500 --> 00:08:33,599
+night I was like what is this and she
+
+219
+00:08:33,599 --> 00:08:36,299
+was like I don't know look nice I was
+
+220
+00:08:36,299 --> 00:08:38,399
+like you don't need this
+
+221
+00:08:38,399 --> 00:08:40,320
+well the sunflower might look nice but
+
+222
+00:08:40,320 --> 00:08:41,940
+you can also get insulted by a really
+
+223
+00:08:41,940 --> 00:08:43,559
+mean weather app if you want who
+
+224
+00:08:43,559 --> 00:08:45,899
+wouldn't want that 24 000 people are
+
+225
+00:08:45,899 --> 00:08:48,000
+killed by lightning every year will you
+
+226
+00:08:48,000 --> 00:08:50,600
+be one of them
+
+227
+00:08:50,600 --> 00:08:52,860
+well that estimate sounds a little high
+
+228
+00:08:52,860 --> 00:08:55,080
+but I wouldn't dare contradict carrot
+
+229
+00:08:55,080 --> 00:08:57,060
+she will come for me I would know that
+
+230
+00:08:57,060 --> 00:08:59,880
+she knows where you live maybe not the
+
+231
+00:08:59,880 --> 00:09:04,320
+address but where you live generally
+
+232
+00:09:04,320 --> 00:09:06,420
+this episode was produced by Nikki
+
+233
+00:09:06,420 --> 00:09:08,040
+Willette with engineering by Catherine
+
+234
+00:09:08,040 --> 00:09:10,620
+Silva Dylan Sloan checked the facts via
+
+235
+00:09:10,620 --> 00:09:12,540
+laser senior producer Kate and Kennon
+
+236
+00:09:12,540 --> 00:09:14,339
+edits the show and the indicator is a
+
+237
+00:09:14,339 --> 00:09:15,820
+production of NPR
+
+238
+00:09:15,820 --> 00:09:16,030
+[Music]
+
+239
+00:09:16,030 --> 00:09:18,770
+[Applause]
+
+240
+00:09:18,770 --> 00:09:21,510
+[Music]
+
