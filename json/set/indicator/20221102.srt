@@ -1,0 +1,940 @@
+1
+00:00:00,659 --> 00:00:03,659
+NPR
+
+2
+00:00:04,140 --> 00:00:11,680
+[Music]
+
+3
+00:00:11,820 --> 00:00:14,340
+today the 12 members of what's known as
+
+4
+00:00:14,340 --> 00:00:16,740
+the Federal Open Market Committee or the
+
+5
+00:00:16,740 --> 00:00:20,279
+fomc made a big decision good afternoon
+
+6
+00:00:20,279 --> 00:00:22,500
+my colleagues and I are strongly
+
+7
+00:00:22,500 --> 00:00:24,600
+committed chair Jerome Powell announced
+
+8
+00:00:24,600 --> 00:00:27,240
+the fomc had decided to raise interest
+
+9
+00:00:27,240 --> 00:00:29,820
+rates three quarters of a percentage
+
+10
+00:00:29,820 --> 00:00:32,759
+point today and interest rates can be
+
+11
+00:00:32,759 --> 00:00:34,820
+suffocating for a lot of people
+
+12
+00:00:34,820 --> 00:00:37,739
+mortgages are more expensive car loans
+
+13
+00:00:37,739 --> 00:00:39,780
+and credit cards get harder to pay off
+
+14
+00:00:39,780 --> 00:00:42,059
+businesses stop hiring the overall
+
+15
+00:00:42,059 --> 00:00:44,760
+effect is designed to slow down the
+
+16
+00:00:44,760 --> 00:00:47,280
+economy to tackle inflation and instead
+
+17
+00:00:47,280 --> 00:00:49,500
+of debating whether the 12 members of
+
+18
+00:00:49,500 --> 00:00:51,420
+the fomc are making the right or the
+
+19
+00:00:51,420 --> 00:00:52,680
+wrong decisions
+
+20
+00:00:52,680 --> 00:00:54,059
+there's another way we could be
+
+21
+00:00:54,059 --> 00:00:56,280
+reimagining the feds work all together
+
+22
+00:00:56,280 --> 00:00:59,340
+we could be putting interest rates on
+
+23
+00:00:59,340 --> 00:01:02,399
+autopilot with the basic formula that a
+
+24
+00:01:02,399 --> 00:01:04,559
+high schooler could memorize the guide
+
+25
+00:01:04,559 --> 00:01:06,900
+is pretty simple when they followed it
+
+26
+00:01:06,900 --> 00:01:08,580
+has worked pretty well when they haven't
+
+27
+00:01:08,580 --> 00:01:10,380
+followed it it's not worked so well
+
+28
+00:01:10,380 --> 00:01:12,840
+Stanford economist John Taylor is
+
+29
+00:01:12,840 --> 00:01:15,180
+talking about his creation the Taylor
+
+30
+00:01:15,180 --> 00:01:17,880
+rule this is the indicator from Planet
+
+31
+00:01:17,880 --> 00:01:19,979
+Money I'm Darian woods and I'm Mary
+
+32
+00:01:19,979 --> 00:01:23,040
+Childs the Taylor rule is a disarmingly
+
+33
+00:01:23,040 --> 00:01:25,080
+simple equation that could tell central
+
+34
+00:01:25,080 --> 00:01:27,240
+banks how much to raise or lower
+
+35
+00:01:27,240 --> 00:01:30,060
+interest rates but recently the FED has
+
+36
+00:01:30,060 --> 00:01:32,759
+strayed from this rule Today's Show what
+
+37
+00:01:32,759 --> 00:01:34,680
+it is and whether or not it could be
+
+38
+00:01:34,680 --> 00:01:39,020
+better than expert human judgment
+
+39
+00:01:40,740 --> 00:01:43,259
+support for this podcast comes from NPR
+
+40
+00:01:43,259 --> 00:01:46,140
+sponsor Raymond James a firm focused on
+
+41
+00:01:46,140 --> 00:01:48,299
+transforming lives businesses and
+
+42
+00:01:48,299 --> 00:01:50,040
+communities through tailored wealth
+
+43
+00:01:50,040 --> 00:01:52,500
+management banking and capital markets
+
+44
+00:01:52,500 --> 00:01:56,939
+Solutions learn more at raymondjames.com
+
+45
+00:01:56,939 --> 00:01:59,460
+the Taylor rule is a Formula that can
+
+46
+00:01:59,460 --> 00:02:01,380
+automate how much to raise or lower
+
+47
+00:02:01,380 --> 00:02:03,659
+interest rates to keep inflation steady
+
+48
+00:02:03,659 --> 00:02:07,439
+and its Origins start in the 1970s back
+
+49
+00:02:07,439 --> 00:02:10,380
+then American monetary policy was a mess
+
+50
+00:02:10,380 --> 00:02:12,720
+inflation was out of control and
+
+51
+00:02:12,720 --> 00:02:14,879
+unemployment was high even more
+
+52
+00:02:14,879 --> 00:02:18,239
+fundamentally it was unclear how a
+
+53
+00:02:18,239 --> 00:02:21,300
+central bank should do Central Bank
+
+54
+00:02:21,300 --> 00:02:24,540
+things like the fed's Dual mandate the
+
+55
+00:02:24,540 --> 00:02:26,819
+core goal of keeping both prices stable
+
+56
+00:02:26,819 --> 00:02:29,640
+and Employment High that didn't even
+
+57
+00:02:29,640 --> 00:02:33,599
+exist until 1977. in the 70s everything
+
+58
+00:02:33,599 --> 00:02:35,879
+was up for debate John Taylor was an
+
+59
+00:02:35,879 --> 00:02:37,800
+economist then recently out of his PhD
+
+60
+00:02:37,800 --> 00:02:39,840
+he was working at the Council of
+
+61
+00:02:39,840 --> 00:02:41,819
+economic advisors under President Ford
+
+62
+00:02:41,819 --> 00:02:44,700
+there were all sorts of Chaos in the 70s
+
+63
+00:02:44,700 --> 00:02:47,459
+we had money growth High money growth
+
+64
+00:02:47,459 --> 00:02:49,440
+low it didn't seem like the way we
+
+65
+00:02:49,440 --> 00:02:51,959
+should be conducting policies so I
+
+66
+00:02:51,959 --> 00:02:54,180
+started with how can we conduct policy
+
+67
+00:02:54,180 --> 00:02:57,360
+in a more understandable way John almost
+
+68
+00:02:57,360 --> 00:02:59,819
+looking for a way to guide fed officials
+
+69
+00:02:59,819 --> 00:03:01,739
+towards keeping the economy growing
+
+70
+00:03:01,739 --> 00:03:04,500
+steadily not too much inflation not too
+
+71
+00:03:04,500 --> 00:03:06,959
+much unemployment in other words he was
+
+72
+00:03:06,959 --> 00:03:09,300
+looking for a recipe for a soup that
+
+73
+00:03:09,300 --> 00:03:12,239
+wouldn't be too salty or too sweet but a
+
+74
+00:03:12,239 --> 00:03:13,800
+lot of the recipes out there giving
+
+75
+00:03:13,800 --> 00:03:15,780
+models for how the central banks should
+
+76
+00:03:15,780 --> 00:03:18,239
+raise or lower interest rates had a lot
+
+77
+00:03:18,239 --> 00:03:21,840
+of inputs and equations exchange rates
+
+78
+00:03:21,840 --> 00:03:24,239
+government deficits may be the number of
+
+79
+00:03:24,239 --> 00:03:27,599
+ships lining up at the ports John didn't
+
+80
+00:03:27,599 --> 00:03:29,640
+think these models would work for policy
+
+81
+00:03:29,640 --> 00:03:32,760
+makers gee this recipe is so complicated
+
+82
+00:03:32,760 --> 00:03:35,099
+can we simplify we want it to be
+
+83
+00:03:35,099 --> 00:03:37,500
+available for everybody not just the
+
+84
+00:03:37,500 --> 00:03:39,840
+sophisticated people who know about all
+
+85
+00:03:39,840 --> 00:03:41,700
+the ingredients in the taste so John
+
+86
+00:03:41,700 --> 00:03:43,560
+would take out one ingredient at a time
+
+87
+00:03:43,560 --> 00:03:45,720
+and see how the model held up and
+
+88
+00:03:45,720 --> 00:03:48,599
+keeping a hypothetical economy satiated
+
+89
+00:03:48,599 --> 00:03:51,060
+it may be see if he could replace two
+
+90
+00:03:51,060 --> 00:03:53,099
+variables as one like I don't know
+
+91
+00:03:53,099 --> 00:03:54,659
+instead of both consumption and
+
+92
+00:03:54,659 --> 00:03:56,280
+investment he could replace these with
+
+93
+00:03:56,280 --> 00:03:59,099
+GDP which covers the whole economy he
+
+94
+00:03:59,099 --> 00:04:01,620
+was boiling it down meanwhile at the FED
+
+95
+00:04:01,620 --> 00:04:04,080
+under chair Paul volcker Central Banking
+
+96
+00:04:04,080 --> 00:04:07,140
+got more clarity yes it had its dual
+
+97
+00:04:07,140 --> 00:04:09,540
+mandate to keep prices stable and jobs
+
+98
+00:04:09,540 --> 00:04:12,299
+plentiful but in reality it was focusing
+
+99
+00:04:12,299 --> 00:04:14,700
+much more on the keeping prices stable
+
+100
+00:04:14,700 --> 00:04:17,040
+part of its mandate keeping inflation
+
+101
+00:04:17,040 --> 00:04:19,738
+low but John still felt like the FED
+
+102
+00:04:19,738 --> 00:04:22,199
+could be much clearer about how it went
+
+103
+00:04:22,199 --> 00:04:25,740
+about its business and in 1992 John was
+
+104
+00:04:25,740 --> 00:04:27,840
+asked to give a talk at Carnegie Mellon
+
+105
+00:04:27,840 --> 00:04:30,000
+University on what he'd been cooking
+
+106
+00:04:30,000 --> 00:04:32,520
+over all these years and the recipe was
+
+107
+00:04:32,520 --> 00:04:35,340
+essentially this raise interest rates by
+
+108
+00:04:35,340 --> 00:04:37,740
+more than the spike in inflation
+
+109
+00:04:37,740 --> 00:04:39,960
+so we have this inflation Target for the
+
+110
+00:04:39,960 --> 00:04:42,780
+fed that's two percent so let's say you
+
+111
+00:04:42,780 --> 00:04:44,940
+have inflation bumbling along at two
+
+112
+00:04:44,940 --> 00:04:47,400
+percent but then one day it spikes up to
+
+113
+00:04:47,400 --> 00:04:50,280
+three percent then the Taylor rule says
+
+114
+00:04:50,280 --> 00:04:52,080
+that you would raise interest rates by
+
+115
+00:04:52,080 --> 00:04:54,000
+one and a half percentage points that's
+
+116
+00:04:54,000 --> 00:04:56,520
+more than that one percentage Point bump
+
+117
+00:04:56,520 --> 00:04:58,680
+in inflation that we've just had and
+
+118
+00:04:58,680 --> 00:04:59,880
+you'd also take into account how
+
+119
+00:04:59,880 --> 00:05:01,860
+overheated or undercooked The Wider
+
+120
+00:05:01,860 --> 00:05:04,440
+economy is as well and those two factors
+
+121
+00:05:04,440 --> 00:05:06,960
+together inflation and the state of the
+
+122
+00:05:06,960 --> 00:05:09,660
+economy that's more or less it that's
+
+123
+00:05:09,660 --> 00:05:11,759
+the Taylor rule I didn't think it'd be
+
+124
+00:05:11,759 --> 00:05:14,340
+so important or useful that's for sure
+
+125
+00:05:14,340 --> 00:05:17,400
+it was like hey let's try this but I
+
+126
+00:05:17,400 --> 00:05:20,040
+caught on quite quickly and it worked
+
+127
+00:05:20,040 --> 00:05:22,139
+pretty well that's all John crunched the
+
+128
+00:05:22,139 --> 00:05:24,479
+numbers for his Rule and he found that
+
+129
+00:05:24,479 --> 00:05:27,000
+it described fairly closely what the
+
+130
+00:05:27,000 --> 00:05:28,979
+Federal Reserve had actually done in the
+
+131
+00:05:28,979 --> 00:05:32,900
+1980s and would go on to do in the 1990s
+
+132
+00:05:32,900 --> 00:05:35,940
+these were times described as the great
+
+133
+00:05:35,940 --> 00:05:38,639
+moderation when inflation was low and
+
+134
+00:05:38,639 --> 00:05:41,400
+any recessions were mild and when the
+
+135
+00:05:41,400 --> 00:05:43,500
+FED had deviated from the Taylor rule
+
+136
+00:05:43,500 --> 00:05:45,479
+where it hadn't raised interest rates as
+
+137
+00:05:45,479 --> 00:05:47,759
+much as the rule suggested that was the
+
+138
+00:05:47,759 --> 00:05:50,580
+1970s when inflation got so high that
+
+139
+00:05:50,580 --> 00:05:52,380
+the FED had to crash the economy in the
+
+140
+00:05:52,380 --> 00:05:55,259
+early 80s to stamp it out it was also in
+
+141
+00:05:55,259 --> 00:05:57,479
+the early 2000s when low interest rates
+
+142
+00:05:57,479 --> 00:05:59,759
+contributed to massive housing price
+
+143
+00:05:59,759 --> 00:06:02,100
+growth fueling the speculative bubble
+
+144
+00:06:02,100 --> 00:06:04,740
+that led to the Great Recession in 2008.
+
+145
+00:06:04,740 --> 00:06:08,000
+John felt like his historical analysis
+
+146
+00:06:08,000 --> 00:06:11,160
+Vindicated the Taylor rule if the rule
+
+147
+00:06:11,160 --> 00:06:13,320
+had been followed maybe we could have
+
+148
+00:06:13,320 --> 00:06:15,720
+avoided those crashes and as the years
+
+149
+00:06:15,720 --> 00:06:18,180
+go on John is trying to promote this
+
+150
+00:06:18,180 --> 00:06:22,080
+idea we have an autopilot for the FED we
+
+151
+00:06:22,080 --> 00:06:25,500
+have policy rules and in his view policy
+
+152
+00:06:25,500 --> 00:06:27,900
+rules like the Taylor rule work better
+
+153
+00:06:27,900 --> 00:06:29,880
+than human judgment most of the time
+
+154
+00:06:29,880 --> 00:06:32,699
+here's John testifying in 2014 at the
+
+155
+00:06:32,699 --> 00:06:34,680
+house Financial Services committee it's
+
+156
+00:06:34,680 --> 00:06:36,479
+because of the success of policy rules
+
+157
+00:06:36,479 --> 00:06:39,180
+that I recommend that legislation be put
+
+158
+00:06:39,180 --> 00:06:41,880
+in place to require the FED to report on
+
+159
+00:06:41,880 --> 00:06:43,919
+its policy Rule and for the next few
+
+160
+00:06:43,919 --> 00:06:45,960
+years there were efforts in Congress to
+
+161
+00:06:45,960 --> 00:06:47,759
+pass bills that would encourage the FED
+
+162
+00:06:47,759 --> 00:06:50,280
+to follow a rule like the Taylor rule
+
+163
+00:06:50,280 --> 00:06:53,160
+one bill required the FED to get audited
+
+164
+00:06:53,160 --> 00:06:56,220
+for an explanation if they deviated but
+
+165
+00:06:56,220 --> 00:06:57,840
+the proposed bills face strong
+
+166
+00:06:57,840 --> 00:07:00,419
+resistance notably from Janet Yellen
+
+167
+00:07:00,419 --> 00:07:02,759
+chair of the FED at the time she thought
+
+168
+00:07:02,759 --> 00:07:05,520
+this breached Fair Independence I am
+
+169
+00:07:05,520 --> 00:07:08,340
+very opposed and have on the record is
+
+170
+00:07:08,340 --> 00:07:10,560
+saying I am very opposed to energetic
+
+171
+00:07:10,560 --> 00:07:12,000
+Yellen is speaking at Stanford
+
+172
+00:07:12,000 --> 00:07:15,419
+University in 2017. and John Taylor's in
+
+173
+00:07:15,419 --> 00:07:18,960
+the room and at first Janet Yellen is
+
+174
+00:07:18,960 --> 00:07:21,720
+complimentary consider first the
+
+175
+00:07:21,720 --> 00:07:24,660
+well-known Taylor rule we which embodies
+
+176
+00:07:24,660 --> 00:07:27,300
+key principles of good monetary policy
+
+177
+00:07:27,300 --> 00:07:29,460
+but you know what happens with a
+
+178
+00:07:29,460 --> 00:07:31,740
+compliment sandwich right the painful
+
+179
+00:07:31,740 --> 00:07:34,080
+stuff is in the middle exactly it's not
+
+180
+00:07:34,080 --> 00:07:36,240
+delicious Janet Yellen points out that
+
+181
+00:07:36,240 --> 00:07:38,699
+yes the formula is simple just plug in
+
+182
+00:07:38,699 --> 00:07:40,919
+inflation and where we are relative to
+
+183
+00:07:40,919 --> 00:07:44,940
+potential GDP but which indicators you
+
+184
+00:07:44,940 --> 00:07:48,240
+use for those matter a lot like do we
+
+185
+00:07:48,240 --> 00:07:49,860
+use the Consumer Price Index for
+
+186
+00:07:49,860 --> 00:07:51,840
+inflation or do we use the fed's
+
+187
+00:07:51,840 --> 00:07:54,300
+preferred consumption expenditures index
+
+188
+00:07:54,300 --> 00:07:57,180
+also Janet Yellen says that geopolitical
+
+189
+00:07:57,180 --> 00:07:59,099
+events like trade Wars might be on the
+
+190
+00:07:59,099 --> 00:08:01,319
+horizon things say only a committee of
+
+191
+00:08:01,319 --> 00:08:03,300
+human beings might be able to anticipate
+
+192
+00:08:03,300 --> 00:08:06,120
+Janet Yellen also gave evidence that the
+
+193
+00:08:06,120 --> 00:08:08,639
+Taylor rule just systematically gives
+
+194
+00:08:08,639 --> 00:08:11,280
+you interest rates that are too high it
+
+195
+00:08:11,280 --> 00:08:13,319
+doesn't take into account how shifts in
+
+196
+00:08:13,319 --> 00:08:15,720
+globalization and demographics have
+
+197
+00:08:15,720 --> 00:08:18,300
+pushed interest rates down overall in
+
+198
+00:08:18,300 --> 00:08:20,759
+the last few decades the Taylor rule for
+
+199
+00:08:20,759 --> 00:08:22,800
+this reason provides a problematic
+
+200
+00:08:22,800 --> 00:08:25,199
+benchmark the speech was a passionate
+
+201
+00:08:25,199 --> 00:08:27,360
+defense of human beings versus the
+
+202
+00:08:27,360 --> 00:08:30,479
+robotic formula of the Taylor rule and
+
+203
+00:08:30,479 --> 00:08:34,320
+the bill didn't pass but the FED did on
+
+204
+00:08:34,320 --> 00:08:36,120
+its own initiative start publishing
+
+205
+00:08:36,120 --> 00:08:38,339
+charts twice a year that showed what it
+
+206
+00:08:38,339 --> 00:08:39,958
+had been doing with interest rates and
+
+207
+00:08:39,958 --> 00:08:42,299
+compared that with the Taylor rule
+
+208
+00:08:42,299 --> 00:08:44,580
+and John says that has been insightful
+
+209
+00:08:44,580 --> 00:08:46,980
+in this pandemic economy under the
+
+210
+00:08:46,980 --> 00:08:48,480
+Taylor rule interest rates would have
+
+211
+00:08:48,480 --> 00:08:49,980
+risen to around seven or eight percent
+
+212
+00:08:49,980 --> 00:08:51,240
+last year
+
+213
+00:08:51,240 --> 00:08:54,839
+instead they stayed near zero I'd say
+
+214
+00:08:54,839 --> 00:08:57,180
+right now that most central banks are
+
+215
+00:08:57,180 --> 00:08:58,860
+still behind and it's not like they're
+
+216
+00:08:58,860 --> 00:09:01,140
+rushing to do this John is holding out
+
+217
+00:09:01,140 --> 00:09:03,480
+hope that our current High inflation
+
+218
+00:09:03,480 --> 00:09:06,019
+might revive interest in
+
+219
+00:09:06,019 --> 00:09:08,459
+institutionalizing his rule what you
+
+220
+00:09:08,459 --> 00:09:09,720
+have to say well look this worked pretty
+
+221
+00:09:09,720 --> 00:09:11,760
+well it looks like it'll work in the
+
+222
+00:09:11,760 --> 00:09:14,100
+future let's just do this and my My Hope
+
+223
+00:09:14,100 --> 00:09:16,800
+Is this experience will bring us more in
+
+224
+00:09:16,800 --> 00:09:18,750
+that direction rather than take us away
+
+225
+00:09:18,750 --> 00:09:20,160
+[Music]
+
+226
+00:09:20,160 --> 00:09:21,839
+Taylor's version of the world is a world
+
+227
+00:09:21,839 --> 00:09:23,519
+without human beings it's just a
+
+228
+00:09:23,519 --> 00:09:25,680
+mathematical formula yeah maybe he's
+
+229
+00:09:25,680 --> 00:09:30,120
+right maybe we're the problem wow
+
+230
+00:09:30,660 --> 00:09:32,339
+the show was produced by Brittany Cronin
+
+231
+00:09:32,339 --> 00:09:34,080
+with engineering by Maggie Luther it was
+
+232
+00:09:34,080 --> 00:09:35,820
+fact checked by Dylan Sloan via laser
+
+233
+00:09:35,820 --> 00:09:37,320
+senior producer and Kate and Cannon
+
+234
+00:09:37,320 --> 00:09:39,060
+edits the show the indicator is a
+
+235
+00:09:39,060 --> 00:09:42,019
+production of NPR
+

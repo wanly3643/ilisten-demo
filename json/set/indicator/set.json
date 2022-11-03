@@ -5,6 +5,12 @@
     "avatar": "https://wanly3643.github.io/ilisten-demo/json/set/indicator/avatar.webp",
     "audios": [
         {
+            "id": "20221102",
+            "avatar": "",
+            "datetime": "2022-11-02",
+            "title": "John Taylor's formula for the Fed"
+        },
+        {
             "id": "20221101",
             "avatar": "",
             "datetime": "2022-11-01",
