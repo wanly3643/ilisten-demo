@@ -5,6 +5,12 @@
     "avatar": "https://media.npr.org/assets/img/2022/09/23/the-indicator_tile_npr-network-01_sq-cdaf29c3fae4825d9aed15df5a2ee4bdfcd95a3e.jpg?s=700&c=85&f=webp",
     "audios": [
         {
+            "id": "20221104",
+            "avatar": "",
+            "datetime": "2022-11-04",
+            "title": "Could foreign workers unlock America's tight labor market?"
+        },
+        {
             "id": "20221103",
             "avatar": "",
             "datetime": "2022-11-03",
