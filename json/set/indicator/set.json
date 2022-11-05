@@ -2,8 +2,14 @@
     "id": "indicator",
     "title": "The Indicator from Planet Money",
     "url": "https://wanly3643.github.io/ilisten-demo/json/set/indicator/set.json",
-    "avatar": "https://wanly3643.github.io/ilisten-demo/json/set/indicator/avatar.webp",
+    "avatar": "https://media.npr.org/assets/img/2022/09/23/the-indicator_tile_npr-network-01_sq-cdaf29c3fae4825d9aed15df5a2ee4bdfcd95a3e.jpg?s=700&c=85&f=webp",
     "audios": [
+        {
+            "id": "20221103",
+            "avatar": "",
+            "datetime": "2022-11-03",
+            "title": "An end to China's rare earth monopoly?"
+        },
         {
             "id": "20221102",
             "avatar": "",

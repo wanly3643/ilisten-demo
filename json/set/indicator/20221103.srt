@@ -1,0 +1,1084 @@
+1
+00:00:00,659 --> 00:00:03,659
+NPR
+
+2
+00:00:04,220 --> 00:00:11,529
+[Music]
+
+3
+00:00:11,940 --> 00:00:13,500
+this is the integrated from Planet Money
+
+4
+00:00:13,500 --> 00:00:16,260
+I'm Darian woods and I'm Patty Hirsch at
+
+5
+00:00:16,260 --> 00:00:17,940
+the heart of every piece of Machinery
+
+6
+00:00:17,940 --> 00:00:20,880
+powered by electricity lies The Humble
+
+7
+00:00:20,880 --> 00:00:22,500
+magnet of course you know this from your
+
+8
+00:00:22,500 --> 00:00:23,820
+physics class at high school Darian
+
+9
+00:00:23,820 --> 00:00:25,580
+right oh yeah I was at the front row
+
+10
+00:00:25,580 --> 00:00:28,260
+anyway most magnets like the one in your
+
+11
+00:00:28,260 --> 00:00:30,180
+battery powered clock for example are
+
+12
+00:00:30,180 --> 00:00:31,980
+cheap and easy to produce but the
+
+13
+00:00:31,980 --> 00:00:33,780
+magnets in high-tech Machinery like
+
+14
+00:00:33,780 --> 00:00:35,760
+electric vehicle Motors or I don't know
+
+15
+00:00:35,760 --> 00:00:37,739
+space shuttle turbines are very
+
+16
+00:00:37,739 --> 00:00:39,600
+different these so-called permanent
+
+17
+00:00:39,600 --> 00:00:42,120
+magnets are subject to intense heat and
+
+18
+00:00:42,120 --> 00:00:44,879
+pressure and to make the really high-end
+
+19
+00:00:44,879 --> 00:00:48,239
+ones you need a special ingredient rare
+
+20
+00:00:48,239 --> 00:00:50,460
+Earths these are elements that can be
+
+21
+00:00:50,460 --> 00:00:53,219
+hard to find and are even harder to
+
+22
+00:00:53,219 --> 00:00:55,260
+extract and refine yeah and the vast
+
+23
+00:00:55,260 --> 00:00:56,699
+majority of rare Earths right now are
+
+24
+00:00:56,699 --> 00:00:58,860
+produced in China which means that China
+
+25
+00:00:58,860 --> 00:01:01,500
+dominates that market recently however
+
+26
+00:01:01,500 --> 00:01:03,480
+scientists discovered a way to produce a
+
+27
+00:01:03,480 --> 00:01:05,820
+metal in a lab that could be used to
+
+28
+00:01:05,820 --> 00:01:08,580
+make high-end magnets without using rare
+
+29
+00:01:08,580 --> 00:01:11,220
+Earths the metal is called tetratanite
+
+30
+00:01:11,220 --> 00:01:13,140
+and on today's show we're going to find
+
+31
+00:01:13,140 --> 00:01:15,600
+out what it is how it's made and how it
+
+32
+00:01:15,600 --> 00:01:17,220
+came from space that's right and we're
+
+33
+00:01:17,220 --> 00:01:19,140
+going to hear how it could transform not
+
+34
+00:01:19,140 --> 00:01:20,880
+just the market for rare Earths and
+
+35
+00:01:20,880 --> 00:01:23,159
+permanent magnets but the balance of
+
+36
+00:01:23,159 --> 00:01:25,320
+technological power between China and
+
+37
+00:01:25,320 --> 00:01:27,299
+the West that's all coming up after the
+
+38
+00:01:27,299 --> 00:01:27,640
+break
+
+39
+00:01:27,640 --> 00:01:31,409
+[Music]
+
+40
+00:01:32,880 --> 00:01:35,220
+support for this podcast comes from NPR
+
+41
+00:01:35,220 --> 00:01:38,040
+sponsor Raymond James a firm focused on
+
+42
+00:01:38,040 --> 00:01:40,259
+transforming lives businesses and
+
+43
+00:01:40,259 --> 00:01:42,000
+communities through tailored wealth
+
+44
+00:01:42,000 --> 00:01:44,520
+management banking and capital markets
+
+45
+00:01:44,520 --> 00:01:46,439
+Solutions learn more at Raymond
+
+46
+00:01:46,439 --> 00:01:47,939
+james.com
+
+47
+00:01:47,939 --> 00:01:50,159
+to understand all about tetraonite we
+
+48
+00:01:50,159 --> 00:01:51,479
+called up one of the scientists who
+
+49
+00:01:51,479 --> 00:01:53,460
+helped make it in the lab I am Laura
+
+50
+00:01:53,460 --> 00:01:57,420
+Henderson Lewis I am a professor of
+
+51
+00:01:57,420 --> 00:01:59,280
+mechanical engineering and chemical
+
+52
+00:01:59,280 --> 00:02:01,140
+engineering at Northeastern University
+
+53
+00:02:01,140 --> 00:02:03,540
+in Boston Massachusetts we also called
+
+54
+00:02:03,540 --> 00:02:05,820
+an investor who tracks technologies that
+
+55
+00:02:05,820 --> 00:02:08,038
+use rare Earths my name is Jonathan
+
+56
+00:02:08,038 --> 00:02:10,139
+hikaway and I'm the president of
+
+57
+00:02:10,139 --> 00:02:12,540
+stormcrow capital limited Jonathan is
+
+58
+00:02:12,540 --> 00:02:14,520
+tremendously excited by the news that
+
+59
+00:02:14,520 --> 00:02:16,080
+scientists may have found a way to
+
+60
+00:02:16,080 --> 00:02:17,819
+create a metal that could remove the
+
+61
+00:02:17,819 --> 00:02:19,920
+need to use rare Earths in some high-end
+
+62
+00:02:19,920 --> 00:02:22,879
+magnets this new discovery this this
+
+63
+00:02:22,879 --> 00:02:25,379
+tetrotainite announcement is one of the
+
+64
+00:02:25,379 --> 00:02:26,879
+most interesting things I've seen in the
+
+65
+00:02:26,879 --> 00:02:27,720
+space
+
+66
+00:02:27,720 --> 00:02:30,900
+and I look at a dozen of these sorts of
+
+67
+00:02:30,900 --> 00:02:32,959
+discoveries a week
+
+68
+00:02:32,959 --> 00:02:36,239
+99.9 of them will never become
+
+69
+00:02:36,239 --> 00:02:38,220
+commercial this one actually might
+
+70
+00:02:38,220 --> 00:02:40,680
+tejate Knight is not an unknown medal
+
+71
+00:02:40,680 --> 00:02:42,420
+but Laura says it is pretty
+
+72
+00:02:42,420 --> 00:02:45,660
+extraordinary tetrotenai is a cosmic
+
+73
+00:02:45,660 --> 00:02:46,620
+mineral
+
+74
+00:02:46,620 --> 00:02:50,459
+and it was first discovered and named in
+
+75
+00:02:50,459 --> 00:02:52,560
+the 1980s and when Laura says
+
+76
+00:02:52,560 --> 00:02:55,140
+tetrotainite is Cosmic she means that in
+
+77
+00:02:55,140 --> 00:02:57,480
+its natural form it literally comes from
+
+78
+00:02:57,480 --> 00:03:00,480
+isospace it's only found in a few
+
+79
+00:03:00,480 --> 00:03:02,640
+meteorites some of them are in the
+
+80
+00:03:02,640 --> 00:03:04,379
+Smithsonian it's made out of two common
+
+81
+00:03:04,379 --> 00:03:07,379
+Metals iron and nickel which bonded and
+
+82
+00:03:07,379 --> 00:03:10,920
+cooled over a very very long time while
+
+83
+00:03:10,920 --> 00:03:12,720
+the meteorite was spinning around up
+
+84
+00:03:12,720 --> 00:03:14,700
+there in the cosmos and that doesn't
+
+85
+00:03:14,700 --> 00:03:18,120
+happen very quickly naturally so it
+
+86
+00:03:18,120 --> 00:03:19,980
+could take up to you know many millions
+
+87
+00:03:19,980 --> 00:03:21,659
+up to a billion years to form a large
+
+88
+00:03:21,659 --> 00:03:24,300
+piece of tetrotaini at replicating a
+
+89
+00:03:24,300 --> 00:03:26,640
+billion year cooling process in a lab is
+
+90
+00:03:26,640 --> 00:03:28,260
+challenging and perhaps not surprisingly
+
+91
+00:03:28,260 --> 00:03:30,239
+rather expensive I mean good luck
+
+92
+00:03:30,239 --> 00:03:31,500
+getting a lease for that length of time
+
+93
+00:03:31,500 --> 00:03:33,900
+yeah but Jonathan hike away says the
+
+94
+00:03:33,900 --> 00:03:36,120
+benefits are potentially huge that's
+
+95
+00:03:36,120 --> 00:03:38,159
+because iron a nickel are dirt cheap
+
+96
+00:03:38,159 --> 00:03:40,379
+compared to rare Earths like neodymium
+
+97
+00:03:40,379 --> 00:03:42,480
+or terbium that we currently need to use
+
+98
+00:03:42,480 --> 00:03:44,099
+when we make high performance permanent
+
+99
+00:03:44,099 --> 00:03:46,560
+magnets today neodymium oxide is true
+
+100
+00:03:46,560 --> 00:03:48,180
+trading at about a hundred dollars it's
+
+101
+00:03:48,180 --> 00:03:49,680
+a hundred and four dollars a kilo
+
+102
+00:03:49,680 --> 00:03:51,659
+terbium oxide which is one of the
+
+103
+00:03:51,659 --> 00:03:53,879
+materials that allows magnets made with
+
+104
+00:03:53,879 --> 00:03:55,440
+it to function at much higher
+
+105
+00:03:55,440 --> 00:03:57,200
+temperatures than it normally would
+
+106
+00:03:57,200 --> 00:03:59,580
+that's trading at something like one
+
+107
+00:03:59,580 --> 00:04:01,620
+thousand nine hundred dollars a kilogram
+
+108
+00:04:01,620 --> 00:04:03,299
+but nickel and iron on the other hand
+
+109
+00:04:03,299 --> 00:04:06,540
+trade for less than 25 bucks a kilogram
+
+110
+00:04:06,540 --> 00:04:08,340
+so you can see the cost saving
+
+111
+00:04:08,340 --> 00:04:10,319
+implications here if we can make
+
+112
+00:04:10,319 --> 00:04:11,939
+permanent magnets out of such
+
+113
+00:04:11,939 --> 00:04:14,400
+inexpensive materials it's got the
+
+114
+00:04:14,400 --> 00:04:17,220
+possibility and the potential of of
+
+115
+00:04:17,220 --> 00:04:19,738
+actually crippling the existing Rare
+
+116
+00:04:19,738 --> 00:04:21,540
+Earth Market crippling well that's you
+
+117
+00:04:21,540 --> 00:04:23,100
+heard it here first watch out Rare Earth
+
+118
+00:04:23,100 --> 00:04:25,800
+Market Yan rarests are expensive not
+
+119
+00:04:25,800 --> 00:04:27,060
+because they're difficult to mine
+
+120
+00:04:27,060 --> 00:04:29,100
+although some are the problem is that
+
+121
+00:04:29,100 --> 00:04:30,360
+they're usually combined with other
+
+122
+00:04:30,360 --> 00:04:32,100
+materials and it's the process of
+
+123
+00:04:32,100 --> 00:04:34,080
+separating them to get that raw element
+
+124
+00:04:34,080 --> 00:04:36,960
+that's so difficult you dig The Ore out
+
+125
+00:04:36,960 --> 00:04:38,160
+of the ground
+
+126
+00:04:38,160 --> 00:04:40,500
+you you grind it you beneficiate it you
+
+127
+00:04:40,500 --> 00:04:41,820
+pull out those Rare earth-bearing
+
+128
+00:04:41,820 --> 00:04:43,620
+Minerals you subject them to an acid
+
+129
+00:04:43,620 --> 00:04:46,199
+leech to pull the metals out getting the
+
+130
+00:04:46,199 --> 00:04:48,780
+individual rare it's out is extremely
+
+131
+00:04:48,780 --> 00:04:51,000
+difficult the US used to be a leader in
+
+132
+00:04:51,000 --> 00:04:52,380
+the rare Earth's business back in the
+
+133
+00:04:52,380 --> 00:04:55,199
+1980s but Laura says that production was
+
+134
+00:04:55,199 --> 00:04:58,320
+so expensive and so messy that the US
+
+135
+00:04:58,320 --> 00:05:01,380
+decided to Outsource to China So Not
+
+136
+00:05:01,380 --> 00:05:04,199
+only was China blessed with a large
+
+137
+00:05:04,199 --> 00:05:07,320
+deposit of rare Earth elements it's in
+
+138
+00:05:07,320 --> 00:05:08,940
+inner Mongolia
+
+139
+00:05:08,940 --> 00:05:11,940
+uh but they were also willing to put in
+
+140
+00:05:11,940 --> 00:05:13,680
+the infrastructure
+
+141
+00:05:13,680 --> 00:05:16,620
+to separate these elements and the U.S
+
+142
+00:05:16,620 --> 00:05:19,979
+was not so particularly interested uh in
+
+143
+00:05:19,979 --> 00:05:21,419
+doing that especially if China would do
+
+144
+00:05:21,419 --> 00:05:24,900
+it for a reduced overhead because the
+
+145
+00:05:24,900 --> 00:05:26,300
+processing is not particularly
+
+146
+00:05:26,300 --> 00:05:28,680
+environmentally friendly the 30 years
+
+147
+00:05:28,680 --> 00:05:31,199
+old Jonathan says China effectively owns
+
+148
+00:05:31,199 --> 00:05:33,360
+the rare Earth's Market almost all of
+
+149
+00:05:33,360 --> 00:05:35,639
+the processing and quantity in terms of
+
+150
+00:05:35,639 --> 00:05:38,759
+separating out pure neodymium oxide pure
+
+151
+00:05:38,759 --> 00:05:41,699
+prasodemium oxide or a mix of the two
+
+152
+00:05:41,699 --> 00:05:43,680
+that's pure enough to be used in magnets
+
+153
+00:05:43,680 --> 00:05:46,979
+is done in China almost all of the
+
+154
+00:05:46,979 --> 00:05:49,680
+conversion of those oxide materials to
+
+155
+00:05:49,680 --> 00:05:52,919
+Metals is done in China and a very large
+
+156
+00:05:52,919 --> 00:05:55,139
+proportion of the actual magnet alloy
+
+157
+00:05:55,139 --> 00:05:57,660
+manufacturing is done in China China
+
+158
+00:05:57,660 --> 00:05:59,820
+controls more than 71 percent of the
+
+159
+00:05:59,820 --> 00:06:02,520
+world's extraction and 87 percent of the
+
+160
+00:06:02,520 --> 00:06:04,259
+world's processing capacity of rare
+
+161
+00:06:04,259 --> 00:06:05,880
+Earths it also makes more than 80
+
+162
+00:06:05,880 --> 00:06:07,560
+percent of the world's permanent magnets
+
+163
+00:06:07,560 --> 00:06:10,680
+Jonathan says that if tetratayanite is a
+
+164
+00:06:10,680 --> 00:06:13,080
+viable success most permanent magnets
+
+165
+00:06:13,080 --> 00:06:15,000
+could be produced at a fraction of their
+
+166
+00:06:15,000 --> 00:06:17,280
+current cost that would turn the magnet
+
+167
+00:06:17,280 --> 00:06:19,800
+Market on its head and also the market
+
+168
+00:06:19,800 --> 00:06:22,380
+in rare Earths this is going to be a
+
+169
+00:06:22,380 --> 00:06:24,360
+fairly big disruption to a lot of
+
+170
+00:06:24,360 --> 00:06:26,340
+companies the the Chinese companies or
+
+171
+00:06:26,340 --> 00:06:27,780
+the producers are going to have to start
+
+172
+00:06:27,780 --> 00:06:29,039
+worrying about
+
+173
+00:06:29,039 --> 00:06:30,900
+what their economics are going to look
+
+174
+00:06:30,900 --> 00:06:32,720
+like if they're only selling a fraction
+
+175
+00:06:32,720 --> 00:06:35,340
+of the amount that they used to the
+
+176
+00:06:35,340 --> 00:06:36,479
+magnets that go into your electric
+
+177
+00:06:36,479 --> 00:06:38,340
+scooter or your air conditioner would be
+
+178
+00:06:38,340 --> 00:06:39,960
+cheaper which would be a win for
+
+179
+00:06:39,960 --> 00:06:41,880
+consumers but there could be a big
+
+180
+00:06:41,880 --> 00:06:43,979
+downside some rare Earths could end up
+
+181
+00:06:43,979 --> 00:06:45,780
+becoming more expensive because it would
+
+182
+00:06:45,780 --> 00:06:47,460
+be less incentive to mine and extract
+
+183
+00:06:47,460 --> 00:06:49,560
+them and that could be a problem for a
+
+184
+00:06:49,560 --> 00:06:51,479
+range of other Industries and that's
+
+185
+00:06:51,479 --> 00:06:53,940
+because rare Earths aren't only used in
+
+186
+00:06:53,940 --> 00:06:56,160
+magnet manufacturing they're also key
+
+187
+00:06:56,160 --> 00:06:57,960
+components and all kinds of high-tech
+
+188
+00:06:57,960 --> 00:06:59,940
+applications from fiber optics to
+
+189
+00:06:59,940 --> 00:07:02,340
+radiation scanners to Advanced military
+
+190
+00:07:02,340 --> 00:07:04,319
+equipment if suddenly the rare earth
+
+191
+00:07:04,319 --> 00:07:05,639
+industry can't afford to dig the
+
+192
+00:07:05,639 --> 00:07:07,680
+material out of the ground because we
+
+193
+00:07:07,680 --> 00:07:09,660
+can't sell magnet materials the
+
+194
+00:07:09,660 --> 00:07:12,000
+availability of things like luticium
+
+195
+00:07:12,000 --> 00:07:15,060
+erbium for the fiber optic industry and
+
+196
+00:07:15,060 --> 00:07:18,419
+some of these other small quantity quite
+
+197
+00:07:18,419 --> 00:07:20,099
+rare rare it's
+
+198
+00:07:20,099 --> 00:07:22,319
+is going to suffer as a result and these
+
+199
+00:07:22,319 --> 00:07:24,780
+markets aren't huge the rare Earth's
+
+200
+00:07:24,780 --> 00:07:27,180
+Market is somewhere between 12 and 16
+
+201
+00:07:27,180 --> 00:07:29,880
+billion dollars a year and just for
+
+202
+00:07:29,880 --> 00:07:31,680
+scale that is about the size of the
+
+203
+00:07:31,680 --> 00:07:33,419
+global market for gin oh really
+
+204
+00:07:33,419 --> 00:07:35,819
+permanent magnets that's about 34
+
+205
+00:07:35,819 --> 00:07:37,620
+billion which is about the size of the
+
+206
+00:07:37,620 --> 00:07:39,840
+global market for orange juice somewhat
+
+207
+00:07:39,840 --> 00:07:41,520
+less interesting so the disruption of
+
+208
+00:07:41,520 --> 00:07:43,020
+either the magnets Market or the rare
+
+209
+00:07:43,020 --> 00:07:44,940
+Earth's Market wouldn't hurt China that
+
+210
+00:07:44,940 --> 00:07:47,099
+much financially but strategically it's
+
+211
+00:07:47,099 --> 00:07:49,139
+a whole other question the demand for a
+
+212
+00:07:49,139 --> 00:07:50,880
+high-end permanent magnets is growing
+
+213
+00:07:50,880 --> 00:07:53,460
+fast and these magnets are vital to all
+
+214
+00:07:53,460 --> 00:07:54,539
+sorts of products that are going to
+
+215
+00:07:54,539 --> 00:07:56,520
+become increasingly important as the
+
+216
+00:07:56,520 --> 00:07:58,080
+world transitions to a clean energy
+
+217
+00:07:58,080 --> 00:07:59,699
+economy so of course I'm talking about
+
+218
+00:07:59,699 --> 00:08:01,860
+things like electric vehicles industrial
+
+219
+00:08:01,860 --> 00:08:04,139
+air conditioners and wind turbines and
+
+220
+00:08:04,139 --> 00:08:06,300
+so it's in China's interest to stay on
+
+221
+00:08:06,300 --> 00:08:08,280
+top of the markets and magnets and rare
+
+222
+00:08:08,280 --> 00:08:11,160
+Earths and the US knows it and that's
+
+223
+00:08:11,160 --> 00:08:12,539
+why there's been talk about America
+
+224
+00:08:12,539 --> 00:08:14,580
+moving back into the rare Earth's
+
+225
+00:08:14,580 --> 00:08:18,180
+business but the us only has one mine
+
+226
+00:08:18,180 --> 00:08:19,680
+running at the moment that's in
+
+227
+00:08:19,680 --> 00:08:21,840
+California yeah and bringing new
+
+228
+00:08:21,840 --> 00:08:24,479
+facilities online will take years which
+
+229
+00:08:24,479 --> 00:08:26,460
+makes the lab production of tetrotainite
+
+230
+00:08:26,460 --> 00:08:28,259
+look kind of like a gift of magical
+
+231
+00:08:28,259 --> 00:08:30,720
+alien technology from outer space which
+
+232
+00:08:30,720 --> 00:08:33,120
+it sort of is just without the aliens
+
+233
+00:08:33,120 --> 00:08:35,339
+but Laura Lewis at Northeastern says
+
+234
+00:08:35,339 --> 00:08:38,219
+it's no quick fix having this is not the
+
+235
+00:08:38,219 --> 00:08:40,740
+same as having a magnet I often use the
+
+236
+00:08:40,740 --> 00:08:42,899
+analogy you may have a material to make
+
+237
+00:08:42,899 --> 00:08:43,919
+a brick
+
+238
+00:08:43,919 --> 00:08:45,540
+but you have to put the bricks together
+
+239
+00:08:45,540 --> 00:08:47,399
+to make a wall and then that wall makes
+
+240
+00:08:47,399 --> 00:08:49,260
+the Taj Mahal she says there's no
+
+241
+00:08:49,260 --> 00:08:51,899
+guarantee that the lab tattoo night will
+
+242
+00:08:51,899 --> 00:08:53,880
+work as well as the tiny bits of metal
+
+243
+00:08:53,880 --> 00:08:57,060
+mine from the meteorites even if it does
+
+244
+00:08:57,060 --> 00:08:59,399
+nothing will happen overnight yeah best
+
+245
+00:08:59,399 --> 00:09:01,080
+case she says it could be five to eight
+
+246
+00:09:01,080 --> 00:09:03,120
+years before Tetra tonight could make a
+
+247
+00:09:03,120 --> 00:09:04,740
+meaningful difference to the magnet
+
+248
+00:09:04,740 --> 00:09:06,420
+production business or to The Rare Earth
+
+249
+00:09:06,420 --> 00:09:08,760
+Markets until then the race is on to
+
+250
+00:09:08,760 --> 00:09:10,740
+compete with China and to secure new
+
+251
+00:09:10,740 --> 00:09:13,019
+sources of rare Earths far in the
+
+252
+00:09:13,019 --> 00:09:15,420
+Australian desert deep under the seabed
+
+253
+00:09:15,420 --> 00:09:16,860
+in Japan
+
+254
+00:09:16,860 --> 00:09:19,860
+maybe in outer space yeah I mean once
+
+255
+00:09:19,860 --> 00:09:21,660
+you've run out of land that's my guess
+
+256
+00:09:21,660 --> 00:09:23,160
+as we have to go it is the final
+
+257
+00:09:23,160 --> 00:09:24,720
+frontier it is after all the final
+
+258
+00:09:24,720 --> 00:09:27,140
+frontier
+
+259
+00:09:28,080 --> 00:09:29,700
+this show was produced by Noah Glick
+
+260
+00:09:29,700 --> 00:09:31,140
+with engineering from Maggie Luthor
+
+261
+00:09:31,140 --> 00:09:33,240
+Dylan Sloan checked the facts via Leia's
+
+262
+00:09:33,240 --> 00:09:34,680
+our senior producer cake and Cannon
+
+263
+00:09:34,680 --> 00:09:36,540
+edits the show and the indicator is a
+
+264
+00:09:36,540 --> 00:09:38,580
+production of NPR
+
+265
+00:09:38,580 --> 00:09:41,040
+visit meteorite or meteoroid fatty so
+
+266
+00:09:41,040 --> 00:09:42,420
+here's the thing when it's in space it's
+
+267
+00:09:42,420 --> 00:09:44,459
+a meteoroid okay when it hits the
+
+268
+00:09:44,459 --> 00:09:46,140
+atmosphere and it burns you've got that
+
+269
+00:09:46,140 --> 00:09:48,420
+shooting star thing that's a meteor and
+
+270
+00:09:48,420 --> 00:09:49,920
+if it survives that and it hits the
+
+271
+00:09:49,920 --> 00:09:54,019
+earth that is a meteorite
+
