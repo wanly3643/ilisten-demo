@@ -1,0 +1,956 @@
+1
+00:00:00,000 --> 00:00:03,000
+NPR
+
+2
+00:00:03,640 --> 00:00:11,170
+[Music]
+
+3
+00:00:11,880 --> 00:00:13,500
+the indicator from Planet Money I'm
+
+4
+00:00:13,500 --> 00:00:16,320
+Darren woods and today I'm joined by one
+
+5
+00:00:16,320 --> 00:00:17,940
+of my favorite people from The Wider
+
+6
+00:00:17,940 --> 00:00:19,859
+Planet Money Universe Sarah Gonzalez
+
+7
+00:00:19,859 --> 00:00:22,020
+welcome to the show you're one of my
+
+8
+00:00:22,020 --> 00:00:24,660
+favorite people Darian Dean
+
+9
+00:00:24,660 --> 00:00:26,460
+and you're here for indicators of the
+
+10
+00:00:26,460 --> 00:00:28,920
+week I'm feeling it I'm ready all right
+
+11
+00:00:28,920 --> 00:00:30,960
+we've got two indicators today one is
+
+12
+00:00:30,960 --> 00:00:33,600
+about FTX a giant cryptocurrency
+
+13
+00:00:33,600 --> 00:00:36,059
+exchange that just filed for bankruptcy
+
+14
+00:00:36,059 --> 00:00:39,059
+and how the stock market reacts to
+
+15
+00:00:39,059 --> 00:00:41,160
+midterm elections that's all coming up
+
+16
+00:00:41,160 --> 00:00:43,760
+after the break
+
+17
+00:00:44,520 --> 00:00:46,700
+foreign
+
+18
+00:00:47,399 --> 00:00:49,680
+this message comes from NPR sponsor
+
+19
+00:00:49,680 --> 00:00:52,020
+fundrise a platform that makes investing
+
+20
+00:00:52,020 --> 00:00:54,300
+in high-end real estate easy utel
+
+21
+00:00:54,300 --> 00:00:55,920
+fundrise your investing goals and
+
+22
+00:00:55,920 --> 00:00:57,480
+fundrise puts your money into the real
+
+23
+00:00:57,480 --> 00:00:59,520
+estate deals that are right for you sign
+
+24
+00:00:59,520 --> 00:01:03,600
+up for free at fundrise.com indicator
+
+25
+00:01:03,600 --> 00:01:05,459
+all right Darian you're up first with
+
+26
+00:01:05,459 --> 00:01:08,640
+this like major crypto exchange that is
+
+27
+00:01:08,640 --> 00:01:11,100
+basically imploding right now where do
+
+28
+00:01:11,100 --> 00:01:14,400
+we start yeah so so my indicator is 32
+
+29
+00:01:14,400 --> 00:01:16,680
+billion dollars big indicator that's
+
+30
+00:01:16,680 --> 00:01:18,360
+huge it's the amount of value that has
+
+31
+00:01:18,360 --> 00:01:21,119
+disappeared from FTX earlier this year
+
+32
+00:01:21,119 --> 00:01:23,520
+investors were valuing it at 32 billion
+
+33
+00:01:23,520 --> 00:01:26,460
+and now one of the Venture Capital firms
+
+34
+00:01:26,460 --> 00:01:29,640
+that invested is valuing it at zero
+
+35
+00:01:29,640 --> 00:01:32,460
+dollars 32 billion to zero dollars yes
+
+36
+00:01:32,460 --> 00:01:35,700
+holy moly okay I have to admit I had not
+
+37
+00:01:35,700 --> 00:01:37,759
+actually ever heard
+
+38
+00:01:37,759 --> 00:01:40,860
+FTX until this week that might be true
+
+39
+00:01:40,860 --> 00:01:44,579
+but a lot of people heard about FDX in
+
+40
+00:01:44,579 --> 00:01:46,439
+the Super Bowl oh they had a commercial
+
+41
+00:01:46,439 --> 00:01:50,280
+of course I call it the wheel got a
+
+42
+00:01:50,280 --> 00:01:53,340
+stone wheel what does it do it it rules
+
+43
+00:01:53,340 --> 00:01:55,560
+yeah it's not as a bagel okay a bagel
+
+44
+00:01:55,560 --> 00:01:56,840
+you can eat
+
+45
+00:01:56,840 --> 00:01:59,280
+Larry David here Shilling for crypto
+
+46
+00:01:59,280 --> 00:02:02,520
+it's like an expensive commercial yeah I
+
+47
+00:02:02,520 --> 00:02:04,439
+mean they were riding high at the time
+
+48
+00:02:04,439 --> 00:02:07,380
+but their fortunes have kind of Fallen
+
+49
+00:02:07,380 --> 00:02:10,919
+back to Earth this week so FDX froze
+
+50
+00:02:10,919 --> 00:02:14,099
+uses withdrawals and that has shaken up
+
+51
+00:02:14,099 --> 00:02:16,080
+the crypto World in general the
+
+52
+00:02:16,080 --> 00:02:18,599
+protagonist is Sam bankman freed and he
+
+53
+00:02:18,599 --> 00:02:23,340
+goes by SPF the FTX guy goes by SBF okay
+
+54
+00:02:23,340 --> 00:02:26,640
+so anyways Sam bankman freed he's a 30
+
+55
+00:02:26,640 --> 00:02:28,980
+year old guy with a mop of hair he wears
+
+56
+00:02:28,980 --> 00:02:31,860
+shorts a lot he's really Earnest and
+
+57
+00:02:31,860 --> 00:02:33,720
+he's kind of been seen as the good guy
+
+58
+00:02:33,720 --> 00:02:36,000
+in crypto even though he was worth an
+
+59
+00:02:36,000 --> 00:02:38,340
+estimated 15 billion dollars before this
+
+60
+00:02:38,340 --> 00:02:40,680
+week it go to Washington DC and it Lobby
+
+61
+00:02:40,680 --> 00:02:42,900
+in support of more regulation of
+
+62
+00:02:42,900 --> 00:02:45,180
+cryptocurrencies here he is testifying
+
+63
+00:02:45,180 --> 00:02:46,920
+at a senate hearing earlier this year I
+
+64
+00:02:46,920 --> 00:02:49,500
+agree I would love to see the cftc play
+
+65
+00:02:49,500 --> 00:02:52,260
+a more active role in uh licensing and
+
+66
+00:02:52,260 --> 00:02:54,300
+regulating the digested space and I
+
+67
+00:02:54,300 --> 00:02:56,099
+agree that that will likely and he's
+
+68
+00:02:56,099 --> 00:02:57,660
+been giving a lot of interviews he
+
+69
+00:02:57,660 --> 00:02:59,819
+seemed super transparent about what he
+
+70
+00:02:59,819 --> 00:03:02,280
+was doing and including with NPR's David
+
+71
+00:03:02,280 --> 00:03:04,680
+gura in June about how he could even
+
+72
+00:03:04,680 --> 00:03:06,540
+step in when other crypto companies were
+
+73
+00:03:06,540 --> 00:03:09,480
+facing trouble I do feel like we have a
+
+74
+00:03:09,480 --> 00:03:11,760
+responsibility to seriously consider
+
+75
+00:03:11,760 --> 00:03:14,220
+stopping in even if it's at a loss to
+
+76
+00:03:14,220 --> 00:03:15,360
+ourselves
+
+77
+00:03:15,360 --> 00:03:17,159
+um to spread contagion and even if we
+
+78
+00:03:17,159 --> 00:03:18,720
+weren't the ones who caused it or were
+
+79
+00:03:18,720 --> 00:03:20,400
+involved in it and to understand and
+
+80
+00:03:20,400 --> 00:03:22,379
+what went wrong this week you need to
+
+81
+00:03:22,379 --> 00:03:24,420
+know that he has businesses in two
+
+82
+00:03:24,420 --> 00:03:27,060
+separate categories an exchange and a
+
+83
+00:03:27,060 --> 00:03:29,760
+trading firm so the exchange is FTX
+
+84
+00:03:29,760 --> 00:03:32,340
+which at its heart is just meant to be a
+
+85
+00:03:32,340 --> 00:03:34,620
+Matchmaker it matches crypto buyers with
+
+86
+00:03:34,620 --> 00:03:36,599
+crypto sellers like the stock exchange
+
+87
+00:03:36,599 --> 00:03:39,360
+and then on the other side SPF also
+
+88
+00:03:39,360 --> 00:03:41,879
+founded a crypto trading firm and that
+
+89
+00:03:41,879 --> 00:03:44,280
+is a company called Alameda research and
+
+90
+00:03:44,280 --> 00:03:46,260
+Alameda research borrowed and speculated
+
+91
+00:03:46,260 --> 00:03:49,200
+and tried to make money in crypto and in
+
+92
+00:03:49,200 --> 00:03:51,540
+theory this is still legal okay so you
+
+93
+00:03:51,540 --> 00:03:54,060
+have this like boring exchange as one
+
+94
+00:03:54,060 --> 00:03:56,519
+company and then the more risky money
+
+95
+00:03:56,519 --> 00:03:59,220
+maker on the other side two separate
+
+96
+00:03:59,220 --> 00:04:01,620
+companies yeah but SBF is heavily
+
+97
+00:04:01,620 --> 00:04:03,840
+involved with both okay and it's been
+
+98
+00:04:03,840 --> 00:04:06,060
+reported that several months ago Alameda
+
+99
+00:04:06,060 --> 00:04:08,340
+research made some bets that went badly
+
+100
+00:04:08,340 --> 00:04:11,040
+so I needed to borrow some money and
+
+101
+00:04:11,040 --> 00:04:12,480
+there's been reports from the Wall
+
+102
+00:04:12,480 --> 00:04:14,700
+Street Journal that it borrowed around
+
+103
+00:04:14,700 --> 00:04:18,060
+10 billion dollars from FTX oh so he
+
+104
+00:04:18,060 --> 00:04:20,220
+borrowed from his other company yeah
+
+105
+00:04:20,220 --> 00:04:21,720
+okay and that shouldn't have happened
+
+106
+00:04:21,720 --> 00:04:24,840
+the way it did where did FDX get that
+
+107
+00:04:24,840 --> 00:04:27,240
+eight billion dollars from well part of
+
+108
+00:04:27,240 --> 00:04:28,919
+it happened from the accounts of
+
+109
+00:04:28,919 --> 00:04:31,380
+everyday people just using fgx to buy
+
+110
+00:04:31,380 --> 00:04:34,139
+and sell crypto oh okay you know in the
+
+111
+00:04:34,139 --> 00:04:35,460
+everyday banking world this kind of
+
+112
+00:04:35,460 --> 00:04:37,620
+thing would not be allowed but to make
+
+113
+00:04:37,620 --> 00:04:40,020
+matters worse there was this problem
+
+114
+00:04:40,020 --> 00:04:42,000
+with the collateral that Alameda
+
+115
+00:04:42,000 --> 00:04:44,220
+research used to borrow the money so you
+
+116
+00:04:44,220 --> 00:04:46,440
+know collateral you often use when you
+
+117
+00:04:46,440 --> 00:04:48,660
+borrow money like maybe a house if
+
+118
+00:04:48,660 --> 00:04:50,100
+you're getting a home loan right so the
+
+119
+00:04:50,100 --> 00:04:51,419
+bank can just like take your house if
+
+120
+00:04:51,419 --> 00:04:53,220
+you don't pay back your loan right yeah
+
+121
+00:04:53,220 --> 00:04:56,280
+and in this case Alameda research is
+
+122
+00:04:56,280 --> 00:05:01,139
+collateral was a token issued by FTX so
+
+123
+00:05:01,139 --> 00:05:03,120
+the whole thing was just kind of a snake
+
+124
+00:05:03,120 --> 00:05:05,580
+eating its tail it wasn't very useful
+
+125
+00:05:05,580 --> 00:05:07,740
+collateral whatsoever it keeps getting
+
+126
+00:05:07,740 --> 00:05:10,320
+sketchier and sketchier exactly so it
+
+127
+00:05:10,320 --> 00:05:12,060
+was all just based on confidence and and
+
+128
+00:05:12,060 --> 00:05:14,639
+then once that confidence started to you
+
+129
+00:05:14,639 --> 00:05:16,860
+know disappear a little bit then
+
+130
+00:05:16,860 --> 00:05:20,160
+everything kind of collapsed and so SBF
+
+131
+00:05:20,160 --> 00:05:23,039
+called out for help from his former
+
+132
+00:05:23,039 --> 00:05:25,320
+Mentor Chung ping Zhao or actually likes
+
+133
+00:05:25,320 --> 00:05:29,100
+to be called CZ and he is the CEO of the
+
+134
+00:05:29,100 --> 00:05:31,560
+largest crypto exchange binance and
+
+135
+00:05:31,560 --> 00:05:33,660
+these two people don't always get along
+
+136
+00:05:33,660 --> 00:05:36,360
+like for one thing he is not a fan of
+
+137
+00:05:36,360 --> 00:05:38,820
+more crypto regulation like SPF is okay
+
+138
+00:05:38,820 --> 00:05:42,060
+and on Tuesday SBF announced that cz's
+
+139
+00:05:42,060 --> 00:05:44,820
+company binance was looking into bailing
+
+140
+00:05:44,820 --> 00:05:48,300
+out FDX but then the next day on
+
+141
+00:05:48,300 --> 00:05:51,479
+Wednesday CZ backed out of the deal he
+
+142
+00:05:51,479 --> 00:05:53,460
+said quote the issues are beyond our
+
+143
+00:05:53,460 --> 00:05:56,520
+control or ability to help wow brutal
+
+144
+00:05:56,520 --> 00:05:58,919
+pretty honest and that day it was
+
+145
+00:05:58,919 --> 00:06:00,720
+reported the Security and Exchange
+
+146
+00:06:00,720 --> 00:06:02,580
+Commission and the Department of Justice
+
+147
+00:06:02,580 --> 00:06:04,860
+were investigating FDX not to mention
+
+148
+00:06:04,860 --> 00:06:08,100
+more overseas investigations and this
+
+149
+00:06:08,100 --> 00:06:10,740
+morning FTX and Alameda research were
+
+150
+00:06:10,740 --> 00:06:14,100
+filing for bankruptcy and SBF resigned
+
+151
+00:06:14,100 --> 00:06:17,820
+as fdx's CEO oh my gosh it just keeps
+
+152
+00:06:17,820 --> 00:06:20,100
+getting worse so overall looking at this
+
+153
+00:06:20,100 --> 00:06:22,319
+yes it's been pretty fascinating to
+
+154
+00:06:22,319 --> 00:06:25,080
+watch this 32 billion dollars go up in
+
+155
+00:06:25,080 --> 00:06:27,840
+flames and this huge Fall From Grace for
+
+156
+00:06:27,840 --> 00:06:31,860
+SPF and big picture I mean this could be
+
+157
+00:06:31,860 --> 00:06:34,380
+the spark for what SBF was kind of
+
+158
+00:06:34,380 --> 00:06:36,600
+asking for all along stronger regulation
+
+159
+00:06:36,600 --> 00:06:40,139
+of crypto yeah exactly yes yes so it
+
+160
+00:06:40,139 --> 00:06:42,120
+could look more like regular financial
+
+161
+00:06:42,120 --> 00:06:44,340
+markets in the future and regular
+
+162
+00:06:44,340 --> 00:06:45,539
+financial markets are what you're going
+
+163
+00:06:45,539 --> 00:06:47,639
+to discuss take us away okay yeah I want
+
+164
+00:06:47,639 --> 00:06:51,139
+to focus on the standard stock market
+
+165
+00:06:51,139 --> 00:06:54,000
+especially after a midterm election so
+
+166
+00:06:54,000 --> 00:06:56,160
+my indicator I'm playing a little fast
+
+167
+00:06:56,160 --> 00:06:59,580
+and loose with it here but it is four as
+
+168
+00:06:59,580 --> 00:07:01,860
+in the midterm elections which happen
+
+169
+00:07:01,860 --> 00:07:03,840
+every four years got it a little bit of
+
+170
+00:07:03,840 --> 00:07:06,360
+a stretch but the midterms and the stock
+
+171
+00:07:06,360 --> 00:07:09,800
+market have this like pretty consistent
+
+172
+00:07:09,800 --> 00:07:13,139
+serious long-term relationship going on
+
+173
+00:07:13,139 --> 00:07:16,560
+okay is a ring involved so usually after
+
+174
+00:07:16,560 --> 00:07:19,259
+a midterm election the market goes up
+
+175
+00:07:19,259 --> 00:07:21,240
+this is pretty pretty well documented
+
+176
+00:07:21,240 --> 00:07:23,580
+it's pretty consistent since the year
+
+177
+00:07:23,580 --> 00:07:27,360
+1950 after every single midterm election
+
+178
+00:07:27,360 --> 00:07:29,520
+the market does a lot better no matter
+
+179
+00:07:29,520 --> 00:07:31,620
+which party wins no matter which party
+
+180
+00:07:31,620 --> 00:07:33,840
+is in power so is there is it like a
+
+181
+00:07:33,840 --> 00:07:36,240
+rational reason for this yeah so the
+
+182
+00:07:36,240 --> 00:07:38,160
+midterms generally are when there's like
+
+183
+00:07:38,160 --> 00:07:40,080
+a big shift in who controls the house
+
+184
+00:07:40,080 --> 00:07:42,240
+and the Senate right so typically
+
+185
+00:07:42,240 --> 00:07:45,060
+whoever is president during a midterm
+
+186
+00:07:45,060 --> 00:07:47,340
+election their party
+
+187
+00:07:47,340 --> 00:07:49,620
+does really poorly right the other party
+
+188
+00:07:49,620 --> 00:07:51,720
+ends up taking control of one or both
+
+189
+00:07:51,720 --> 00:07:53,400
+houses or keeping control if they
+
+190
+00:07:53,400 --> 00:07:55,800
+already had it so there's this split
+
+191
+00:07:55,800 --> 00:07:58,440
+government so for example like if the
+
+192
+00:07:58,440 --> 00:07:59,940
+House and Senate are both controlled by
+
+193
+00:07:59,940 --> 00:08:01,740
+Republicans but the president is
+
+194
+00:08:01,740 --> 00:08:04,500
+Democrat that's a split government or if
+
+195
+00:08:04,500 --> 00:08:06,060
+the House and Senate are split that's
+
+196
+00:08:06,060 --> 00:08:07,979
+considered a split Congress and the
+
+197
+00:08:07,979 --> 00:08:10,740
+stock market apparently really loves a
+
+198
+00:08:10,740 --> 00:08:12,840
+split government wow maybe the only part
+
+199
+00:08:12,840 --> 00:08:14,520
+of society that loves a Congress that
+
+200
+00:08:14,520 --> 00:08:17,039
+can't get anything done yeah right and
+
+201
+00:08:17,039 --> 00:08:19,560
+it is because the stock market sort of
+
+202
+00:08:19,560 --> 00:08:23,160
+gets like reassured that no big policy
+
+203
+00:08:23,160 --> 00:08:25,740
+changes no big spending is going to go
+
+204
+00:08:25,740 --> 00:08:27,240
+through in the next two years because
+
+205
+00:08:27,240 --> 00:08:30,539
+basically nothing happens when there's a
+
+206
+00:08:30,539 --> 00:08:32,039
+split government right when there's
+
+207
+00:08:32,039 --> 00:08:34,320
+gridlock it's a bit of a breather yeah
+
+208
+00:08:34,320 --> 00:08:36,360
+when there's gridlock no one can pass
+
+209
+00:08:36,360 --> 00:08:38,039
+any laws and so there's a lot less
+
+210
+00:08:38,039 --> 00:08:40,200
+uncertainty which of course the market
+
+211
+00:08:40,200 --> 00:08:42,419
+loves and okay that's starting to make
+
+212
+00:08:42,419 --> 00:08:43,260
+sense
+
+213
+00:08:43,260 --> 00:08:45,540
+um now at the moment we still don't know
+
+214
+00:08:45,540 --> 00:08:47,820
+the final results right it's so too
+
+215
+00:08:47,820 --> 00:08:49,740
+close to call but I do want to say that
+
+216
+00:08:49,740 --> 00:08:51,060
+all of this is just kind of like
+
+217
+00:08:51,060 --> 00:08:53,339
+historically speaking right all of this
+
+218
+00:08:53,339 --> 00:08:56,640
+might not actually mean a whole lot this
+
+219
+00:08:56,640 --> 00:08:58,260
+year just because there's so much going
+
+220
+00:08:58,260 --> 00:09:00,180
+on right now we had historic spending
+
+221
+00:09:00,180 --> 00:09:01,740
+because of the pandemic High inflation
+
+222
+00:09:01,740 --> 00:09:03,360
+High interest rates that the Federal
+
+223
+00:09:03,360 --> 00:09:05,880
+Reserve says needs to stay high people
+
+224
+00:09:05,880 --> 00:09:07,740
+are worried about a recession there's
+
+225
+00:09:07,740 --> 00:09:10,440
+Russia's war in Ukraine all of this will
+
+226
+00:09:10,440 --> 00:09:12,300
+affect the stock market though so like
+
+227
+00:09:12,300 --> 00:09:14,580
+who knows uh an interesting thing is
+
+228
+00:09:14,580 --> 00:09:18,540
+that like a certain split is apparently
+
+229
+00:09:18,540 --> 00:09:20,580
+more Market friendly and it is when
+
+230
+00:09:20,580 --> 00:09:23,760
+there is a republican Congress under a
+
+231
+00:09:23,760 --> 00:09:26,220
+Democrat president that is apparently
+
+232
+00:09:26,220 --> 00:09:29,100
+the best environment for stocks thank
+
+233
+00:09:29,100 --> 00:09:30,540
+you so much for joining into guys of the
+
+234
+00:09:30,540 --> 00:09:34,019
+week Sarah yeah of course thanks Darian
+
+235
+00:09:34,019 --> 00:09:35,700
+this episode was produced by senior
+
+236
+00:09:35,700 --> 00:09:37,260
+producer via lay with engineering from
+
+237
+00:09:37,260 --> 00:09:39,420
+Robert Rodriguez Dylan Sloan checked the
+
+238
+00:09:39,420 --> 00:09:41,100
+facts cake and Cannon edits the show and
+
+239
+00:09:41,100 --> 00:09:44,839
+the indicator is a production of NPR
+
